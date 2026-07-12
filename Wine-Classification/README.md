@@ -174,7 +174,7 @@ The metadata file contains:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/machine-learning-projects.git
+git clone https://github.com/gsvillarreal/machine-learning-projects.git
 ```
 
 Enter the project directory:
