@@ -128,7 +128,7 @@ st.divider()
 if st.button(
     "Realizar predicción",
     type="primary",
-    use_container_width=True
+    width="stretch"
 ):
     passenger_data = pd.DataFrame({
         "Pclass": [pclass],
@@ -161,7 +161,7 @@ if st.button(
     with st.expander("Ver datos enviados al modelo"):
         st.dataframe(
             passenger_data,
-            use_container_width=True
+            width="stretch"
         )
 
 
