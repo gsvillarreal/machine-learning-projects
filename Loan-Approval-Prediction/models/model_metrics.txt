@@ -1,0 +1,17 @@
+LOAN APPROVAL MODEL METRICS
+===========================
+
+Accuracy:  0.8833
+Precision: 0.9358
+Recall:    0.9162
+F1-score:  0.9259
+
+Classification report:
+              precision    recall  f1-score   support
+
+    Rejected       0.70      0.76      0.73        49
+    Approved       0.94      0.92      0.93       191
+
+    accuracy                           0.88       240
+   macro avg       0.82      0.84      0.83       240
+weighted avg       0.89      0.88      0.89       240
