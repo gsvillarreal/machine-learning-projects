@@ -1,0 +1,1501 @@
+Age,Education_Level,Job_Title,Years_Experience,Company_Size,Remote_Ratio,Salary
+24,Master,Cybersecurity Analyst,3,Small,50,81572.55
+51,PhD,Product Manager,8,Medium,0,118094.0
+47,Bachelor,Cybersecurity Analyst,6,Medium,0,83349.69
+38,Bachelor,DevOps Engineer,6,Large,100,97005.46
+38,Master,Machine Learning Engineer,11,Medium,100,121267.43
+55,Bachelor,Systems Engineer,8,Medium,100,88311.24
+24,Master,Systems Engineer,5,Small,50,75117.9
+48,Bachelor,Project Manager,14,Small,50,105026.34
+29,Bachelor,Data Analyst,9,Large,50,86099.01
+24,Master,Data Analyst,4,Small,0,75109.42
+42,High School,Data Scientist,8,Large,50,97317.94
+60,Bachelor,Project Manager,9,Medium,50,107087.34
+50,Bachelor,Cybersecurity Analyst,23,Small,0,111936.36
+51,Master,DevOps Engineer,10,Small,100,98854.9
+49,Master,DevOps Engineer,7,Small,0,89987.72
+52,Bachelor,Software Developer,31,Large,0,135338.56
+41,High School,Data Scientist,11,Medium,0,84151.85
+26,PhD,Data Analyst,0,Medium,100,81595.6
+54,Bachelor,Project Manager,17,Medium,100,124700.11
+39,Bachelor,Project Manager,9,Medium,50,97965.93
+41,Bachelor,Systems Engineer,19,Large,100,121650.26
+35,Bachelor,Systems Engineer,12,Large,100,103737.39
+28,Master,Data Scientist,1,Medium,100,90518.97
+58,Master,Product Manager,6,Large,100,106134.16
+52,Master,Machine Learning Engineer,20,Large,0,138126.03
+46,Bachelor,Project Manager,1,Medium,100,83851.77
+37,Bachelor,Machine Learning Engineer,6,Medium,50,99941.85
+53,Bachelor,Cybersecurity Analyst,4,Small,100,74029.37
+42,High School,DevOps Engineer,0,Large,0,60000.42
+38,Bachelor,Systems Engineer,18,Large,100,109109.8
+39,Bachelor,Product Manager,1,Small,100,82833.71
+30,High School,Project Manager,0,Large,0,78383.31
+24,Bachelor,Project Manager,5,Large,100,110102.49
+43,Master,Database Administrator,4,Small,0,81296.48
+56,High School,Systems Engineer,31,Medium,0,126689.18
+23,Bachelor,Data Analyst,0,Large,0,61805.65
+55,Master,DevOps Engineer,5,Large,100,110625.1
+54,Master,Data Scientist,3,Small,50,79059.34
+32,Master,Machine Learning Engineer,9,Medium,0,106958.3
+46,Bachelor,Systems Engineer,17,Medium,50,97864.45
+27,Master,Data Scientist,4,Small,0,91313.44
+51,Bachelor,Data Scientist,7,Medium,50,92754.99
+49,Bachelor,Data Scientist,2,Small,100,71154.86
+35,Bachelor,Project Manager,9,Small,50,93113.27
+23,Bachelor,DevOps Engineer,1,Medium,100,84257.9
+59,Bachelor,Machine Learning Engineer,24,Medium,50,134295.69
+38,Bachelor,Software Developer,13,Medium,100,90393.18
+56,Master,DevOps Engineer,32,Large,0,155474.36
+48,Bachelor,Software Developer,14,Medium,0,93833.77
+52,Bachelor,Data Scientist,0,Small,0,64851.67
+51,High School,Machine Learning Engineer,9,Small,50,87077.45
+28,Bachelor,Software Developer,8,Small,50,66583.63
+35,Bachelor,Data Scientist,9,Medium,100,97265.84
+39,Bachelor,Systems Engineer,13,Small,0,86512.66
+40,Bachelor,Product Manager,10,Small,0,97070.11
+22,Master,Product Manager,0,Small,50,87192.62
+42,PhD,Data Analyst,21,Medium,100,124688.01
+27,Bachelor,Cybersecurity Analyst,6,Medium,0,88409.39
+50,Bachelor,Cybersecurity Analyst,31,Large,0,149516.37
+48,Master,Data Scientist,25,Large,0,140555.98
+57,PhD,Machine Learning Engineer,11,Medium,50,118798.01
+50,Bachelor,Project Manager,8,Small,0,83336.51
+35,Master,Data Scientist,4,Medium,0,85241.06
+59,Master,Data Analyst,37,Small,50,139517.9
+37,Master,Data Scientist,10,Medium,0,97282.28
+34,Bachelor,Systems Engineer,7,Medium,0,80976.34
+57,High School,Data Scientist,37,Medium,0,141607.26
+35,High School,Systems Engineer,10,Small,100,68034.05
+24,Bachelor,Software Developer,5,Medium,50,78916.44
+39,Bachelor,Database Administrator,20,Large,0,116153.51
+52,Bachelor,Software Developer,2,Large,0,67377.8
+28,Bachelor,Project Manager,3,Medium,50,80036.92
+39,Bachelor,Project Manager,15,Medium,100,117538.22
+26,Master,Cybersecurity Analyst,6,Small,0,93449.45
+48,High School,Database Administrator,4,Medium,0,67381.56
+40,Bachelor,Data Analyst,7,Medium,0,69106.62
+34,Master,Data Scientist,8,Small,50,100029.79
+30,Master,Software Developer,9,Medium,100,80937.33
+43,PhD,DevOps Engineer,2,Large,50,115201.21
+47,Master,Cybersecurity Analyst,17,Medium,0,130064.6
+58,Master,Product Manager,11,Medium,100,101961.97
+38,Bachelor,Data Scientist,4,Medium,100,85214.98
+27,Bachelor,Systems Engineer,4,Medium,0,69486.32
+54,Bachelor,Database Administrator,14,Medium,0,97211.37
+46,Bachelor,Cybersecurity Analyst,17,Small,0,99889.69
+49,PhD,Project Manager,9,Medium,100,121670.55
+24,Bachelor,Machine Learning Engineer,4,Medium,50,91124.58
+33,Bachelor,Machine Learning Engineer,1,Small,50,73734.56
+51,Bachelor,Data Scientist,28,Large,100,144566.89
+54,Bachelor,Project Manager,1,Small,0,77288.71
+38,Bachelor,Systems Engineer,14,Medium,0,88697.67
+53,High School,Database Administrator,12,Medium,0,77522.6
+54,PhD,Software Developer,13,Medium,100,120556.46
+36,Bachelor,Machine Learning Engineer,0,Medium,50,79145.44
+56,Master,Data Scientist,26,Large,0,143375.88
+32,Master,Cybersecurity Analyst,2,Medium,0,80013.23
+30,Bachelor,Cybersecurity Analyst,7,Medium,100,93688.53
+48,Bachelor,Database Administrator,21,Medium,100,128836.74
+46,Master,Project Manager,23,Small,50,135079.6
+26,Bachelor,Systems Engineer,5,Small,0,60889.81
+54,Master,Systems Engineer,10,Medium,100,89695.26
+28,High School,Product Manager,7,Small,100,87006.21
+53,Master,Machine Learning Engineer,28,Medium,50,149990.6
+21,Master,Data Analyst,0,Medium,50,53668.29
+52,Bachelor,Product Manager,4,Medium,100,100716.05
+52,Bachelor,Cybersecurity Analyst,30,Small,100,128482.08
+52,PhD,Data Analyst,5,Large,50,98959.81
+47,Bachelor,Project Manager,17,Medium,50,128323.8
+39,Bachelor,Cybersecurity Analyst,4,Medium,0,78310.48
+49,Bachelor,Cybersecurity Analyst,3,Small,100,78233.84
+32,Bachelor,Product Manager,10,Medium,50,99608.32
+52,Master,Machine Learning Engineer,4,Small,0,94542.06
+43,Master,Machine Learning Engineer,16,Medium,0,120210.85
+39,Bachelor,Cybersecurity Analyst,14,Medium,100,99276.59
+41,Master,Software Developer,1,Large,100,79463.99
+43,Bachelor,Software Developer,4,Medium,100,71005.51
+22,High School,Product Manager,3,Medium,50,82649.04
+26,Bachelor,Systems Engineer,4,Small,100,77498.08
+30,PhD,DevOps Engineer,1,Medium,100,91488.15
+25,High School,Systems Engineer,6,Medium,0,81610.14
+38,Bachelor,Systems Engineer,5,Medium,0,68049.64
+47,Bachelor,DevOps Engineer,0,Small,100,82692.58
+47,Master,Product Manager,26,Small,0,135100.94
+39,High School,Machine Learning Engineer,0,Small,50,69993.92
+55,Bachelor,Software Developer,20,Large,50,111058.82
+43,Master,Systems Engineer,24,Medium,50,124737.63
+24,Bachelor,Software Developer,3,Small,0,66408.14
+51,Bachelor,Product Manager,19,Large,100,144798.96
+43,Bachelor,Data Scientist,9,Small,0,93943.15
+46,Bachelor,Data Scientist,3,Medium,100,81170.86
+43,Bachelor,Data Analyst,14,Medium,0,86905.53
+43,Master,Machine Learning Engineer,22,Large,50,140707.53
+24,Bachelor,Database Administrator,0,Medium,100,66050.7
+43,Master,Machine Learning Engineer,22,Medium,0,129522.19
+52,PhD,Cybersecurity Analyst,14,Large,0,121174.56
+33,Bachelor,Software Developer,8,Small,100,78097.63
+45,Bachelor,Software Developer,4,Large,0,65329.11
+22,Master,Project Manager,2,Large,0,96121.88
+34,Bachelor,Data Analyst,2,Large,50,77496.15
+38,Master,Machine Learning Engineer,5,Small,100,103731.47
+60,Master,Data Scientist,30,Small,50,138488.9
+29,High School,Data Analyst,0,Medium,0,39618.76
+32,Bachelor,DevOps Engineer,6,Medium,100,94958.98
+37,Bachelor,Database Administrator,11,Medium,50,80295.43
+60,Bachelor,Data Analyst,5,Large,50,81660.92
+55,Bachelor,Product Manager,10,Medium,50,105718.48
+22,Bachelor,DevOps Engineer,1,Medium,0,88187.8
+30,Master,Project Manager,7,Medium,0,90038.21
+53,Master,Data Analyst,34,Small,50,138308.88
+23,Master,Product Manager,4,Small,0,92196.95
+55,Bachelor,Data Analyst,7,Small,50,64413.7
+32,Bachelor,Database Administrator,0,Large,0,66780.94
+57,Bachelor,Cybersecurity Analyst,2,Medium,0,78974.49
+32,High School,Data Scientist,8,Medium,0,87656.82
+38,PhD,Data Analyst,3,Medium,50,89310.77
+47,Bachelor,Cybersecurity Analyst,6,Medium,100,94248.3
+26,Bachelor,Data Analyst,6,Large,0,71636.63
+43,Master,Cybersecurity Analyst,21,Large,0,125176.82
+41,Bachelor,Project Manager,19,Medium,0,111589.05
+52,High School,Systems Engineer,8,Large,100,95439.35
+60,Bachelor,Systems Engineer,26,Medium,0,117530.95
+47,Bachelor,Systems Engineer,17,Medium,100,115281.38
+37,Master,Systems Engineer,3,Large,0,88750.43
+37,Bachelor,Software Developer,10,Medium,0,84979.42
+37,Master,Systems Engineer,9,Medium,100,93958.79
+53,Master,Cybersecurity Analyst,13,Medium,50,112564.04
+33,Master,Data Scientist,11,Medium,0,104107.18
+27,Bachelor,Project Manager,6,Medium,100,92984.72
+34,High School,Product Manager,8,Medium,0,97776.03
+21,Master,Project Manager,2,Medium,0,88536.17
+25,Bachelor,DevOps Engineer,5,Small,0,75209.99
+24,Bachelor,Data Scientist,3,Large,50,92198.96
+51,Master,Database Administrator,8,Medium,100,96216.09
+49,High School,Systems Engineer,23,Large,0,118533.46
+48,Master,Machine Learning Engineer,21,Small,100,129476.84
+39,PhD,Machine Learning Engineer,20,Medium,50,134745.27
+49,Master,Project Manager,4,Medium,100,108210.44
+27,Bachelor,DevOps Engineer,3,Large,100,101879.67
+57,Master,Project Manager,36,Small,100,167502.71
+41,Bachelor,Database Administrator,11,Large,50,98873.14
+58,Master,Data Scientist,37,Medium,0,159598.09
+27,Master,Product Manager,0,Medium,50,100293.96
+40,Master,Software Developer,0,Medium,50,67877.02
+48,Bachelor,Database Administrator,23,Small,50,110804.66
+40,High School,Software Developer,7,Medium,100,84633.41
+38,Bachelor,Product Manager,10,Small,0,98713.93
+27,Bachelor,Data Scientist,3,Medium,100,94210.55
+36,Bachelor,Database Administrator,7,Medium,0,75009.65
+30,Bachelor,Software Developer,11,Medium,100,92309.11
+33,Bachelor,Machine Learning Engineer,1,Small,0,89626.5
+48,Master,Database Administrator,23,Small,0,119778.5
+46,Master,Data Analyst,24,Small,100,111215.97
+45,Bachelor,Systems Engineer,17,Small,100,93393.49
+35,Master,Data Analyst,6,Medium,100,85694.06
+59,Master,Data Scientist,6,Small,100,86579.23
+24,Bachelor,Data Scientist,4,Large,0,88231.15
+34,Bachelor,Cybersecurity Analyst,7,Small,100,76992.99
+25,Master,Systems Engineer,1,Small,0,77541.37
+34,PhD,Software Developer,5,Large,50,102929.31
+59,Master,Software Developer,39,Small,50,149610.49
+35,Master,Database Administrator,4,Medium,0,76875.11
+57,PhD,Database Administrator,6,Large,50,114415.44
+40,Bachelor,Systems Engineer,15,Large,100,106804.41
+48,Bachelor,Software Developer,5,Medium,0,65368.77
+39,Bachelor,Data Analyst,19,Small,100,84227.29
+31,PhD,Database Administrator,11,Medium,50,105324.21
+51,High School,Project Manager,32,Large,0,139672.17
+59,Bachelor,Project Manager,37,Large,50,164663.07
+31,Master,Systems Engineer,3,Small,0,77066.45
+52,Bachelor,Cybersecurity Analyst,7,Medium,0,84147.6
+31,Master,Data Analyst,4,Medium,50,74934.16
+49,Bachelor,Cybersecurity Analyst,14,Small,0,91459.99
+52,PhD,DevOps Engineer,29,Medium,0,154191.01
+38,Master,Data Scientist,14,Small,100,120325.4
+50,Bachelor,Project Manager,20,Medium,0,119909.08
+31,Master,Cybersecurity Analyst,11,Small,100,102506.58
+24,Bachelor,Machine Learning Engineer,3,Medium,100,82206.84
+24,Bachelor,Software Developer,2,Small,0,68520.64
+38,Master,Data Analyst,8,Medium,50,78736.76
+57,Master,Database Administrator,20,Small,0,119303.2
+26,High School,Systems Engineer,0,Large,50,66260.92
+39,Bachelor,Data Scientist,15,Small,0,103669.48
+49,Master,Cybersecurity Analyst,20,Medium,100,130026.07
+29,Bachelor,Systems Engineer,8,Small,0,73885.36
+49,Bachelor,Data Scientist,16,Small,50,110751.44
+33,High School,Project Manager,11,Small,0,84646.09
+53,Bachelor,DevOps Engineer,33,Small,0,146267.61
+44,Master,Cybersecurity Analyst,14,Small,50,102458.77
+42,High School,Data Analyst,10,Medium,50,74097.35
+28,Bachelor,Machine Learning Engineer,1,Medium,100,84428.04
+39,PhD,Machine Learning Engineer,16,Small,0,125499.86
+55,High School,Cybersecurity Analyst,33,Medium,0,130151.84
+21,Master,Software Developer,2,Medium,0,73885.34
+51,Bachelor,Software Developer,28,Small,0,116865.13
+40,Master,Project Manager,18,Medium,100,125359.08
+49,Master,Cybersecurity Analyst,24,Small,100,128469.83
+47,Master,Product Manager,14,Small,100,119604.03
+38,Bachelor,Systems Engineer,1,Medium,0,63501.86
+33,Bachelor,Database Administrator,0,Large,50,76227.45
+46,Master,Systems Engineer,5,Large,100,87966.69
+26,Bachelor,Cybersecurity Analyst,3,Large,0,98674.4
+44,Bachelor,Software Developer,19,Medium,50,111154.71
+24,High School,Database Administrator,2,Small,0,61038.56
+46,PhD,Data Scientist,0,Medium,0,95032.68
+46,Master,Product Manager,5,Small,100,87124.49
+24,Bachelor,Data Scientist,5,Small,0,62653.92
+51,Master,Project Manager,32,Small,100,151004.25
+37,Bachelor,Machine Learning Engineer,7,Medium,0,88128.62
+52,Bachelor,Data Analyst,27,Medium,0,112980.37
+22,Bachelor,Software Developer,2,Small,0,60633.94
+28,Bachelor,Cybersecurity Analyst,9,Medium,0,96322.49
+40,Bachelor,Software Developer,19,Medium,50,97970.42
+28,Master,Systems Engineer,6,Large,0,94597.78
+34,Master,DevOps Engineer,6,Small,50,91286.34
+47,Bachelor,Systems Engineer,18,Medium,100,110685.06
+26,Bachelor,Software Developer,2,Small,0,56281.37
+48,High School,Cybersecurity Analyst,10,Medium,0,94298.81
+25,PhD,Cybersecurity Analyst,4,Small,50,90178.95
+28,Master,Project Manager,5,Small,100,104645.09
+44,Master,Database Administrator,15,Medium,50,105257.67
+52,Bachelor,Software Developer,13,Small,0,88056.96
+27,Bachelor,Machine Learning Engineer,3,Small,50,83241.99
+32,Bachelor,Systems Engineer,0,Large,50,72033.55
+58,High School,Database Administrator,24,Small,0,111593.89
+60,High School,DevOps Engineer,24,Medium,0,119004.96
+44,High School,Data Analyst,24,Medium,100,88828.21
+38,PhD,Cybersecurity Analyst,10,Small,0,83622.79
+34,High School,Data Analyst,7,Medium,0,71034.53
+45,High School,Systems Engineer,1,Small,0,61581.55
+44,Master,Project Manager,5,Medium,50,109324.05
+32,Bachelor,DevOps Engineer,4,Small,50,79694.83
+21,Master,Project Manager,1,Small,0,73444.19
+27,Bachelor,DevOps Engineer,3,Medium,50,81082.5
+59,Master,Product Manager,16,Large,50,134268.55
+37,Bachelor,DevOps Engineer,14,Large,0,106757.77
+40,Bachelor,Data Analyst,2,Large,100,80291.45
+39,Master,Data Analyst,6,Medium,0,88637.02
+52,Bachelor,Project Manager,5,Medium,0,91869.68
+23,Bachelor,Data Analyst,1,Medium,100,61134.82
+24,Bachelor,Data Scientist,4,Large,100,85030.2
+32,Bachelor,Data Analyst,0,Medium,0,64278.6
+40,Master,Data Scientist,7,Medium,100,99857.84
+47,Bachelor,DevOps Engineer,0,Medium,50,75265.01
+40,Bachelor,Software Developer,21,Medium,0,110087.04
+38,Bachelor,Machine Learning Engineer,14,Small,100,106285.73
+58,Master,Database Administrator,9,Medium,100,99681.25
+27,Bachelor,Data Analyst,1,Medium,0,48545.2
+43,Master,Data Analyst,2,Large,50,81922.52
+42,Master,Systems Engineer,11,Medium,0,95573.53
+39,High School,Product Manager,15,Large,0,122952.81
+53,Master,Machine Learning Engineer,20,Medium,100,134793.18
+31,Bachelor,Cybersecurity Analyst,11,Large,50,103382.8
+59,Bachelor,Data Analyst,14,Small,50,74526.1
+34,Master,Project Manager,4,Large,50,107358.54
+42,Master,Data Analyst,11,Medium,50,82944.96
+41,Bachelor,Project Manager,4,Small,0,77881.47
+54,Bachelor,Software Developer,35,Small,100,136006.28
+38,Bachelor,Product Manager,3,Small,50,86327.35
+32,Bachelor,Systems Engineer,6,Medium,50,69963.42
+21,Bachelor,Software Developer,1,Medium,50,63815.16
+35,Bachelor,Data Scientist,0,Large,0,84771.38
+54,Bachelor,Data Analyst,16,Medium,0,87929.97
+21,High School,Software Developer,1,Medium,0,54851.61
+56,Master,DevOps Engineer,9,Medium,0,102774.44
+42,Master,Data Scientist,3,Large,50,94844.24
+26,Master,Data Scientist,0,Large,100,84816.91
+33,High School,Product Manager,0,Small,0,69781.92
+43,Bachelor,Software Developer,12,Large,0,100364.44
+33,Bachelor,Data Scientist,1,Medium,50,70892.94
+25,High School,Software Developer,6,Large,0,71953.11
+47,Bachelor,Machine Learning Engineer,7,Large,100,99110.21
+47,Bachelor,Data Scientist,18,Medium,0,118248.29
+25,Master,Data Analyst,4,Small,0,64245.85
+32,Bachelor,Data Analyst,6,Medium,0,63098.8
+30,Master,Product Manager,10,Small,100,110553.59
+47,Bachelor,Data Analyst,3,Large,0,61378.4
+50,Master,Project Manager,7,Small,50,90199.03
+50,Bachelor,Database Administrator,8,Medium,0,76839.2
+58,Bachelor,Machine Learning Engineer,5,Large,0,92599.32
+51,Bachelor,Data Scientist,9,Small,100,98944.03
+33,Master,Project Manager,4,Medium,0,89401.29
+25,Bachelor,Database Administrator,5,Medium,0,81797.35
+45,Bachelor,Software Developer,8,Medium,50,75582.19
+57,Bachelor,Database Administrator,34,Small,100,145357.2
+60,Master,Database Administrator,32,Small,0,133243.51
+30,High School,Software Developer,10,Medium,0,76235.37
+30,Bachelor,Data Analyst,1,Medium,100,61517.11
+22,Bachelor,Project Manager,3,Medium,50,100566.83
+26,Master,Data Analyst,4,Small,100,72582.55
+43,Bachelor,Cybersecurity Analyst,24,Medium,100,124242.58
+42,Bachelor,Data Analyst,8,Medium,50,78710.29
+35,PhD,Cybersecurity Analyst,16,Small,0,128029.05
+33,Bachelor,Systems Engineer,8,Medium,0,72822.18
+54,Bachelor,Data Analyst,2,Medium,100,58345.11
+39,Bachelor,Data Analyst,8,Medium,100,75178.61
+53,High School,Software Developer,4,Large,100,71297.47
+59,High School,DevOps Engineer,38,Medium,50,151603.46
+33,Bachelor,Data Analyst,4,Medium,0,55974.61
+29,Master,Product Manager,2,Small,50,98823.74
+59,Master,Cybersecurity Analyst,22,Small,50,113864.35
+46,High School,Systems Engineer,11,Small,50,76998.72
+32,Bachelor,Database Administrator,1,Large,100,87474.98
+45,Bachelor,Cybersecurity Analyst,22,Large,50,128218.89
+41,PhD,Cybersecurity Analyst,19,Small,0,115923.63
+57,Bachelor,Software Developer,28,Small,50,110507.95
+31,Bachelor,Project Manager,8,Medium,50,96220.0
+60,Bachelor,DevOps Engineer,16,Medium,100,109657.82
+58,Bachelor,Database Administrator,21,Medium,50,117431.39
+28,Bachelor,Machine Learning Engineer,5,Medium,50,85591.29
+27,Master,Cybersecurity Analyst,1,Large,50,94078.21
+42,Bachelor,Data Scientist,1,Small,50,71893.3
+22,Master,Data Analyst,1,Medium,0,65339.02
+32,Bachelor,Software Developer,6,Medium,100,86846.46
+38,Master,Product Manager,3,Medium,100,97973.23
+59,Master,Project Manager,4,Large,50,98445.1
+60,PhD,Data Scientist,35,Small,50,157713.42
+27,Bachelor,Cybersecurity Analyst,3,Medium,0,76444.84
+56,Bachelor,Data Analyst,22,Medium,50,104854.21
+24,Bachelor,Data Analyst,3,Large,50,65615.81
+50,Bachelor,DevOps Engineer,23,Medium,100,117461.49
+54,Bachelor,Cybersecurity Analyst,26,Medium,0,124834.43
+56,PhD,Database Administrator,11,Large,100,120358.95
+29,PhD,Project Manager,9,Large,0,120617.55
+56,Bachelor,Systems Engineer,14,Medium,50,104997.33
+25,Bachelor,Product Manager,5,Large,50,114732.92
+41,Master,Machine Learning Engineer,9,Small,0,106356.0
+39,PhD,Product Manager,2,Medium,50,112695.12
+33,Bachelor,Software Developer,11,Large,100,100800.65
+21,Bachelor,Data Analyst,0,Medium,50,67259.4
+51,Master,Data Analyst,25,Medium,0,128105.12
+34,Bachelor,Database Administrator,0,Large,50,82706.99
+47,Bachelor,Data Analyst,5,Large,0,77238.28
+37,PhD,Database Administrator,11,Large,50,114968.61
+35,PhD,Project Manager,16,Medium,50,129951.98
+56,Master,Software Developer,15,Large,0,105972.98
+24,Master,Product Manager,0,Small,50,89727.51
+50,Bachelor,Software Developer,7,Medium,100,76077.91
+50,Bachelor,Software Developer,28,Medium,100,125453.36
+36,Bachelor,DevOps Engineer,13,Large,0,96468.98
+31,Bachelor,Systems Engineer,1,Large,0,84538.54
+21,Bachelor,Systems Engineer,1,Medium,50,67877.15
+58,Bachelor,Software Developer,10,Medium,0,85733.48
+58,Bachelor,Cybersecurity Analyst,7,Medium,50,97146.72
+30,Master,Data Analyst,10,Medium,0,85801.76
+22,Bachelor,Systems Engineer,2,Medium,0,78066.06
+25,Bachelor,DevOps Engineer,1,Small,50,65749.57
+23,High School,Machine Learning Engineer,3,Medium,0,94984.26
+54,Bachelor,Cybersecurity Analyst,14,Large,100,119322.66
+56,Master,Systems Engineer,2,Medium,0,77655.21
+27,Bachelor,Cybersecurity Analyst,4,Large,50,97350.48
+50,Bachelor,Project Manager,5,Medium,0,81988.19
+28,Master,Data Scientist,2,Medium,100,86668.31
+35,Bachelor,Systems Engineer,14,Small,100,102465.5
+44,High School,DevOps Engineer,18,Medium,0,96397.64
+49,Bachelor,DevOps Engineer,4,Medium,50,89162.75
+55,Bachelor,Data Analyst,31,Small,0,120393.06
+22,Master,DevOps Engineer,2,Small,50,94215.35
+28,Bachelor,Software Developer,8,Medium,0,69102.27
+32,High School,DevOps Engineer,10,Medium,50,101657.79
+33,High School,Database Administrator,5,Medium,0,68643.18
+60,Bachelor,DevOps Engineer,22,Small,100,118717.94
+52,High School,Project Manager,18,Medium,50,105267.97
+33,Master,Data Scientist,10,Medium,50,97472.89
+59,Bachelor,Database Administrator,10,Medium,0,92421.13
+40,Bachelor,Product Manager,7,Medium,0,91726.01
+41,Bachelor,Database Administrator,5,Small,0,77441.71
+38,Bachelor,Project Manager,5,Large,100,96022.2
+26,High School,Cybersecurity Analyst,1,Small,100,56921.8
+58,Master,DevOps Engineer,1,Medium,0,81033.15
+21,Master,Database Administrator,2,Small,100,79420.24
+27,High School,Product Manager,0,Medium,50,76335.88
+30,Bachelor,Machine Learning Engineer,10,Small,0,97205.26
+32,Master,Data Analyst,0,Large,50,75177.24
+26,Bachelor,Data Analyst,6,Medium,0,74694.53
+21,Bachelor,Systems Engineer,0,Medium,0,63139.43
+48,Bachelor,Data Analyst,15,Small,50,77734.67
+59,Master,Systems Engineer,11,Small,0,90656.57
+25,Master,Software Developer,3,Medium,100,81423.9
+32,Bachelor,Database Administrator,6,Medium,50,74435.65
+41,PhD,Data Analyst,12,Medium,100,95056.35
+58,Bachelor,Cybersecurity Analyst,15,Large,50,108684.88
+48,Bachelor,Data Scientist,16,Medium,100,110953.07
+51,Bachelor,Software Developer,27,Large,0,122833.8
+44,Bachelor,Project Manager,11,Small,50,102442.24
+37,Bachelor,Database Administrator,6,Large,50,80569.2
+28,High School,Project Manager,1,Medium,100,67721.69
+55,Bachelor,Database Administrator,13,Medium,0,94596.67
+53,Master,DevOps Engineer,4,Large,50,98746.08
+22,High School,Cybersecurity Analyst,0,Medium,100,59272.14
+49,Bachelor,Software Developer,29,Large,0,128159.51
+24,Bachelor,Product Manager,0,Medium,100,84593.74
+50,Bachelor,Project Manager,15,Small,0,102640.21
+54,Master,Systems Engineer,30,Medium,0,138911.29
+26,Master,Data Scientist,7,Medium,50,93430.53
+38,Master,Cybersecurity Analyst,2,Large,50,100267.02
+25,High School,Data Analyst,1,Large,0,60129.23
+43,Bachelor,Product Manager,9,Small,0,91957.32
+58,Bachelor,Systems Engineer,22,Small,0,107967.07
+24,Bachelor,Data Analyst,5,Small,100,64744.09
+36,High School,Data Scientist,3,Medium,100,83888.33
+59,Bachelor,Product Manager,6,Small,50,88597.71
+33,Bachelor,Systems Engineer,3,Medium,0,76204.03
+26,Bachelor,DevOps Engineer,6,Medium,50,90451.13
+40,Bachelor,Product Manager,0,Large,100,102949.4
+41,Master,Data Analyst,8,Small,100,85345.35
+47,Master,Project Manager,3,Medium,0,92781.88
+33,Bachelor,Systems Engineer,2,Small,0,61826.3
+59,Master,Cybersecurity Analyst,37,Large,100,173439.64
+41,High School,Software Developer,0,Small,100,50917.3
+32,Master,Software Developer,4,Small,0,80881.84
+59,PhD,Project Manager,37,Small,100,172870.82
+57,High School,Product Manager,23,Large,0,131166.14
+40,Master,Database Administrator,1,Small,0,68442.31
+21,PhD,Cybersecurity Analyst,1,Medium,100,84921.79
+44,Master,Machine Learning Engineer,25,Medium,50,148339.35
+43,PhD,Software Developer,10,Large,50,102079.93
+26,Bachelor,Systems Engineer,4,Small,100,78388.89
+46,High School,Cybersecurity Analyst,14,Small,100,85042.39
+54,Master,Data Scientist,23,Medium,0,131363.45
+25,Bachelor,Machine Learning Engineer,1,Small,50,86101.34
+49,Bachelor,Software Developer,26,Medium,100,109286.52
+26,Bachelor,Machine Learning Engineer,7,Medium,50,110509.59
+50,Bachelor,Systems Engineer,4,Medium,100,75248.29
+37,Bachelor,Software Developer,15,Small,50,90846.57
+21,Master,Software Developer,2,Medium,0,75828.7
+59,High School,DevOps Engineer,30,Small,0,132356.77
+27,Master,Data Scientist,3,Medium,100,92243.3
+44,Master,Data Analyst,12,Small,100,92384.31
+28,Bachelor,DevOps Engineer,8,Large,0,102714.42
+58,Bachelor,Software Developer,6,Medium,0,84765.29
+50,Bachelor,Data Analyst,26,Small,100,113333.97
+53,PhD,Software Developer,32,Small,0,152187.81
+38,Master,Machine Learning Engineer,13,Medium,0,122006.47
+39,Bachelor,Database Administrator,7,Small,100,70565.5
+46,Bachelor,Systems Engineer,15,Small,100,111666.62
+52,Bachelor,Systems Engineer,1,Large,100,74753.94
+54,Bachelor,Systems Engineer,33,Medium,50,148573.26
+21,PhD,Data Scientist,1,Small,0,84360.76
+47,Master,Project Manager,1,Medium,100,97566.54
+25,Bachelor,Data Scientist,5,Small,0,73869.13
+32,Master,Cybersecurity Analyst,9,Large,0,108554.47
+54,Bachelor,Product Manager,22,Small,100,127880.86
+31,Master,Database Administrator,0,Medium,50,86474.02
+52,Bachelor,DevOps Engineer,25,Large,100,143632.01
+39,Bachelor,Project Manager,13,Small,0,106215.66
+30,Master,Database Administrator,9,Small,100,79815.54
+34,Bachelor,Project Manager,13,Medium,50,108086.56
+42,Master,Systems Engineer,5,Large,50,94463.31
+51,PhD,Software Developer,6,Medium,100,94541.69
+45,Bachelor,Software Developer,24,Medium,0,119566.94
+58,High School,Product Manager,21,Large,100,131004.57
+55,Master,DevOps Engineer,16,Large,50,126492.72
+51,Bachelor,Systems Engineer,9,Medium,100,95887.36
+45,High School,Data Scientist,17,Medium,100,93727.87
+32,Bachelor,Systems Engineer,10,Medium,50,92536.1
+37,Master,Product Manager,0,Small,0,81996.69
+25,Bachelor,Cybersecurity Analyst,3,Large,0,79126.09
+35,Bachelor,Product Manager,16,Small,100,118219.27
+58,Master,Data Scientist,11,Small,100,109564.71
+38,Bachelor,Machine Learning Engineer,5,Large,100,109234.86
+25,Master,Software Developer,6,Medium,0,80389.32
+47,Bachelor,Database Administrator,1,Small,0,69454.45
+59,PhD,DevOps Engineer,16,Small,100,128408.41
+55,Master,DevOps Engineer,16,Medium,100,120675.77
+31,High School,Machine Learning Engineer,10,Large,0,98841.52
+39,Master,Systems Engineer,2,Small,50,68588.6
+42,Bachelor,Database Administrator,10,Small,0,89027.12
+30,High School,Machine Learning Engineer,1,Medium,50,77947.12
+31,Bachelor,Cybersecurity Analyst,10,Large,0,93722.91
+30,Master,Data Analyst,7,Small,0,61290.82
+60,High School,Systems Engineer,20,Large,0,113990.99
+50,Bachelor,Product Manager,12,Large,100,117119.33
+54,High School,Data Analyst,5,Small,100,58982.33
+53,Bachelor,Software Developer,32,Large,100,149838.24
+59,Bachelor,Product Manager,26,Medium,50,134346.45
+25,Bachelor,Data Scientist,2,Medium,50,79129.18
+56,Bachelor,Systems Engineer,15,Medium,0,96975.84
+23,High School,DevOps Engineer,3,Large,50,85878.46
+40,Bachelor,Software Developer,15,Large,0,108434.96
+44,Bachelor,Data Analyst,11,Large,100,82223.29
+35,Master,Data Analyst,5,Large,100,87418.79
+26,High School,Data Analyst,5,Medium,100,69189.14
+28,High School,Software Developer,6,Large,0,73081.74
+53,Bachelor,Cybersecurity Analyst,20,Large,50,123175.32
+33,Bachelor,Systems Engineer,1,Small,0,63710.7
+33,Bachelor,Data Analyst,7,Small,0,66468.9
+57,Master,Data Analyst,23,Medium,100,120094.12
+26,Bachelor,Machine Learning Engineer,7,Large,50,108767.68
+57,Bachelor,Product Manager,20,Small,100,119108.17
+57,Bachelor,Data Scientist,13,Medium,0,107541.6
+44,High School,Data Analyst,14,Small,100,83800.7
+27,Bachelor,Systems Engineer,1,Medium,100,72316.5
+27,Bachelor,Machine Learning Engineer,0,Medium,50,74035.07
+32,Bachelor,Software Developer,9,Small,100,78111.53
+44,High School,Database Administrator,25,Large,0,124166.44
+27,Master,Project Manager,7,Small,100,91532.4
+39,PhD,Data Scientist,12,Large,100,123239.17
+25,High School,Database Administrator,0,Small,100,50543.78
+42,Bachelor,Data Scientist,23,Large,100,138243.75
+21,Master,Software Developer,1,Medium,50,73195.73
+49,Bachelor,Database Administrator,8,Small,100,73725.3
+23,Master,Database Administrator,4,Small,50,81908.79
+28,Bachelor,Data Scientist,7,Small,0,82060.95
+27,Master,DevOps Engineer,6,Medium,0,98298.49
+54,PhD,Software Developer,9,Large,100,104450.81
+23,High School,Cybersecurity Analyst,4,Medium,50,69991.12
+38,Bachelor,Cybersecurity Analyst,9,Medium,50,88174.93
+44,Bachelor,Project Manager,13,Medium,100,107370.98
+41,High School,DevOps Engineer,17,Medium,50,107512.95
+48,Bachelor,Project Manager,19,Medium,0,120687.75
+53,PhD,DevOps Engineer,6,Medium,50,104055.68
+36,High School,Product Manager,5,Medium,50,86460.08
+54,Bachelor,Software Developer,13,Large,100,98491.58
+33,Master,Machine Learning Engineer,14,Medium,50,135846.35
+60,Bachelor,Machine Learning Engineer,30,Small,50,138375.65
+41,Bachelor,DevOps Engineer,8,Small,100,87252.17
+50,PhD,Software Developer,23,Medium,100,150363.12
+56,Bachelor,Data Scientist,28,Medium,100,141126.08
+52,High School,Database Administrator,13,Large,0,88320.12
+55,High School,Software Developer,14,Medium,100,93856.12
+42,PhD,Cybersecurity Analyst,21,Medium,50,128739.77
+22,Bachelor,Cybersecurity Analyst,2,Large,0,87854.37
+40,Bachelor,Machine Learning Engineer,3,Small,50,82334.23
+28,High School,Data Analyst,7,Large,100,71761.22
+56,Bachelor,Data Analyst,22,Small,50,109054.99
+30,PhD,Systems Engineer,6,Medium,100,100598.41
+30,Bachelor,Software Developer,8,Large,0,91437.94
+30,PhD,Data Analyst,10,Large,0,101609.52
+46,Bachelor,Software Developer,9,Large,0,85133.33
+43,Bachelor,Software Developer,10,Medium,50,88668.13
+58,Master,Product Manager,7,Large,50,121655.29
+37,Bachelor,Cybersecurity Analyst,12,Medium,100,102208.43
+32,Bachelor,Data Analyst,5,Medium,100,80809.86
+22,Master,Cybersecurity Analyst,1,Small,0,79302.92
+21,Bachelor,Software Developer,2,Small,0,60671.9
+35,Bachelor,Machine Learning Engineer,6,Medium,0,95708.92
+58,PhD,Data Analyst,18,Small,50,106423.42
+41,Bachelor,Data Analyst,10,Medium,0,69492.57
+56,Bachelor,Software Developer,9,Large,50,89259.57
+25,High School,Machine Learning Engineer,0,Large,100,86327.12
+24,Bachelor,Machine Learning Engineer,4,Small,50,83303.49
+54,Bachelor,Data Scientist,3,Large,0,88626.06
+25,Master,Cybersecurity Analyst,2,Small,0,76527.84
+23,Bachelor,Project Manager,3,Medium,50,91242.15
+37,Master,Project Manager,2,Large,50,102378.67
+57,Bachelor,DevOps Engineer,25,Small,0,125002.92
+48,Bachelor,DevOps Engineer,21,Small,100,110996.72
+24,Bachelor,Machine Learning Engineer,3,Small,50,94344.34
+54,Master,Systems Engineer,10,Medium,50,95148.65
+54,Bachelor,Machine Learning Engineer,0,Large,0,87514.68
+53,Bachelor,Data Analyst,31,Small,0,115144.87
+57,Master,Database Administrator,12,Small,0,92469.53
+30,Bachelor,Data Scientist,9,Medium,0,102064.35
+60,Bachelor,Project Manager,8,Small,50,99916.27
+33,Master,Database Administrator,2,Medium,50,84066.36
+53,Bachelor,Machine Learning Engineer,27,Large,100,150755.0
+44,High School,Product Manager,24,Large,100,143514.71
+52,Bachelor,Machine Learning Engineer,29,Large,0,152242.78
+46,High School,Software Developer,21,Medium,0,99058.66
+46,Bachelor,Data Analyst,6,Large,100,81228.64
+45,Master,Software Developer,24,Small,100,116153.05
+52,High School,Database Administrator,22,Small,100,108913.59
+50,Master,Machine Learning Engineer,5,Medium,0,100225.33
+26,PhD,Data Scientist,1,Small,0,87817.62
+54,Bachelor,Machine Learning Engineer,31,Large,0,152485.18
+42,Master,Systems Engineer,6,Medium,100,93460.82
+33,Master,Product Manager,11,Large,50,117762.13
+41,PhD,Database Administrator,3,Medium,50,88164.6
+59,Bachelor,Data Analyst,11,Medium,50,78026.45
+55,Bachelor,Project Manager,10,Medium,0,93567.69
+54,Bachelor,Data Scientist,10,Small,50,97093.97
+39,Bachelor,Data Analyst,14,Medium,0,79985.69
+52,Bachelor,Database Administrator,31,Medium,50,134006.5
+36,Bachelor,Data Analyst,16,Large,100,108732.45
+48,High School,Systems Engineer,22,Medium,50,104976.5
+46,Master,Data Analyst,5,Small,0,65871.14
+30,Bachelor,Machine Learning Engineer,11,Medium,100,103127.83
+31,High School,DevOps Engineer,7,Medium,100,92397.71
+23,High School,Data Scientist,2,Small,0,69480.42
+26,Bachelor,Data Analyst,5,Medium,0,70433.68
+38,Bachelor,Software Developer,15,Small,50,93225.18
+40,High School,Database Administrator,20,Small,0,99441.53
+27,Bachelor,Product Manager,5,Medium,0,90853.74
+37,Bachelor,Database Administrator,11,Small,0,81310.18
+45,Bachelor,DevOps Engineer,20,Medium,0,126739.43
+30,Bachelor,DevOps Engineer,3,Small,50,82188.83
+34,Bachelor,Project Manager,4,Medium,50,84640.17
+35,Bachelor,Cybersecurity Analyst,10,Small,0,87238.99
+41,High School,Machine Learning Engineer,1,Large,100,85399.31
+35,High School,Systems Engineer,5,Small,0,56230.74
+50,Bachelor,Machine Learning Engineer,22,Medium,0,130465.91
+34,Master,Data Analyst,15,Medium,0,92507.04
+38,PhD,Software Developer,10,Small,100,90284.78
+36,Master,Project Manager,7,Medium,100,95525.2
+28,Bachelor,Product Manager,4,Large,50,91417.18
+48,Bachelor,Software Developer,20,Large,0,109771.44
+30,Bachelor,Data Analyst,6,Medium,0,67689.43
+32,Master,Data Analyst,0,Small,0,50748.2
+52,Master,Project Manager,18,Medium,100,132504.44
+58,Master,Data Scientist,16,Medium,0,114806.72
+47,Master,Data Scientist,20,Small,100,125461.31
+57,Bachelor,Data Analyst,34,Large,50,137702.54
+55,Master,Database Administrator,35,Medium,50,149277.29
+40,Master,Machine Learning Engineer,13,Medium,100,121284.71
+51,Bachelor,Project Manager,11,Medium,0,94623.95
+34,Master,Project Manager,7,Medium,100,107636.63
+39,High School,Software Developer,3,Small,0,48977.1
+42,PhD,Product Manager,22,Large,100,162909.4
+59,Master,DevOps Engineer,34,Small,50,150769.27
+54,High School,Cybersecurity Analyst,30,Large,0,143375.2
+40,Master,Systems Engineer,7,Large,100,91664.26
+47,High School,Product Manager,9,Medium,0,91733.38
+29,Master,Database Administrator,9,Small,0,91085.61
+53,Master,Machine Learning Engineer,19,Small,100,134822.98
+43,Bachelor,Data Analyst,17,Medium,50,104399.65
+42,Master,Product Manager,11,Medium,100,118448.2
+51,High School,Product Manager,14,Large,50,126826.47
+46,Bachelor,DevOps Engineer,17,Medium,50,112662.01
+23,Bachelor,DevOps Engineer,4,Large,0,97392.61
+32,High School,Systems Engineer,4,Small,0,55146.91
+28,Bachelor,Data Analyst,8,Medium,100,79121.2
+50,Bachelor,Database Administrator,7,Small,0,63349.84
+22,Bachelor,Machine Learning Engineer,1,Medium,50,78470.45
+29,Bachelor,Systems Engineer,10,Small,0,83800.06
+44,Master,Cybersecurity Analyst,24,Small,0,116925.37
+48,Bachelor,Data Analyst,27,Large,50,125961.7
+41,Master,Data Analyst,7,Medium,100,86838.75
+55,Bachelor,Systems Engineer,31,Small,100,128192.08
+57,Bachelor,Machine Learning Engineer,36,Small,100,152386.28
+26,Bachelor,Data Scientist,7,Medium,0,85554.88
+59,Bachelor,Software Developer,0,Medium,50,57205.13
+45,Bachelor,Data Scientist,20,Small,0,110392.72
+46,Bachelor,Data Scientist,27,Medium,100,137012.54
+24,Bachelor,DevOps Engineer,4,Small,0,75963.94
+45,Bachelor,DevOps Engineer,6,Medium,50,100246.16
+50,Bachelor,Product Manager,24,Medium,0,131483.58
+44,Bachelor,Product Manager,2,Small,100,93748.6
+24,Master,Systems Engineer,2,Small,100,68152.56
+41,Bachelor,Database Administrator,14,Small,100,97236.67
+58,PhD,DevOps Engineer,18,Small,0,130698.63
+49,Master,Software Developer,21,Medium,100,124988.14
+26,PhD,Data Scientist,1,Large,0,94678.45
+59,Master,Project Manager,24,Large,0,148130.42
+59,High School,Product Manager,26,Medium,0,135727.07
+27,Bachelor,Data Scientist,5,Medium,0,80760.36
+53,Bachelor,Software Developer,10,Medium,50,88695.7
+37,Master,Software Developer,5,Large,0,97174.95
+44,Bachelor,Software Developer,6,Small,0,71030.2
+38,Bachelor,Cybersecurity Analyst,9,Small,50,90198.14
+52,Master,DevOps Engineer,19,Medium,100,131832.93
+60,High School,Machine Learning Engineer,15,Small,50,94234.14
+52,Bachelor,Cybersecurity Analyst,13,Medium,50,104361.35
+58,Master,Product Manager,11,Large,0,115099.44
+58,High School,Project Manager,8,Large,100,96060.68
+24,Bachelor,Software Developer,3,Small,0,74571.65
+31,Master,DevOps Engineer,10,Medium,0,102480.43
+49,High School,Product Manager,9,Medium,0,91358.96
+44,Bachelor,Project Manager,22,Medium,50,135315.5
+23,Bachelor,Data Scientist,2,Medium,0,71713.94
+24,Master,Data Scientist,1,Small,50,75515.49
+41,High School,Product Manager,8,Large,0,108094.31
+45,PhD,Data Analyst,0,Large,50,79256.61
+27,Master,DevOps Engineer,0,Medium,50,74630.42
+27,Bachelor,Software Developer,3,Medium,0,70863.94
+26,Bachelor,Product Manager,3,Medium,50,89221.2
+43,Bachelor,Data Analyst,19,Medium,50,108039.11
+21,Master,Data Analyst,0,Small,50,54362.88
+43,Bachelor,Data Scientist,20,Medium,0,123307.36
+40,Bachelor,Systems Engineer,5,Small,50,82654.19
+39,High School,Machine Learning Engineer,2,Large,0,80294.34
+48,PhD,Systems Engineer,20,Medium,0,122840.72
+41,Bachelor,Data Scientist,17,Medium,0,112731.75
+50,Master,DevOps Engineer,19,Medium,50,120655.93
+51,Bachelor,DevOps Engineer,3,Large,0,90221.77
+57,Master,Database Administrator,4,Small,50,78450.48
+52,High School,Machine Learning Engineer,13,Small,0,95129.59
+41,High School,DevOps Engineer,10,Small,100,88293.63
+40,Master,Cybersecurity Analyst,21,Medium,0,124627.59
+30,PhD,Software Developer,3,Large,50,92583.28
+44,Bachelor,Cybersecurity Analyst,5,Small,100,76407.04
+26,Bachelor,Product Manager,7,Large,0,102068.97
+58,Bachelor,Data Scientist,6,Small,0,79488.47
+54,Bachelor,Software Developer,0,Medium,50,62731.45
+25,Bachelor,Data Scientist,2,Small,100,72766.9
+52,Master,Systems Engineer,13,Medium,100,106543.64
+25,Bachelor,DevOps Engineer,4,Medium,0,72911.43
+49,Master,Product Manager,27,Medium,100,149017.2
+24,High School,DevOps Engineer,5,Small,0,71320.43
+40,High School,Software Developer,6,Large,0,69063.31
+47,Master,Data Scientist,28,Large,50,160375.19
+50,Bachelor,Cybersecurity Analyst,20,Medium,50,117113.17
+37,Master,Data Scientist,1,Medium,50,85260.62
+57,High School,DevOps Engineer,36,Large,100,155300.62
+51,PhD,Cybersecurity Analyst,4,Small,0,88705.33
+29,Master,Data Scientist,6,Large,50,94908.48
+47,Master,Cybersecurity Analyst,22,Small,0,119381.1
+50,High School,Data Scientist,7,Large,0,82777.95
+34,Bachelor,Software Developer,4,Small,0,62135.58
+50,Bachelor,Data Scientist,15,Small,100,88640.5
+56,Bachelor,Machine Learning Engineer,33,Medium,50,148831.98
+53,Bachelor,Data Analyst,7,Medium,0,79183.56
+51,High School,Product Manager,21,Large,50,136182.39
+46,Bachelor,DevOps Engineer,12,Large,100,120314.24
+31,Bachelor,Data Analyst,1,Small,100,63526.33
+52,Bachelor,Product Manager,24,Small,50,135837.92
+35,Bachelor,Product Manager,14,Medium,0,111082.79
+42,Bachelor,Data Analyst,13,Medium,50,79376.49
+33,Bachelor,Software Developer,2,Medium,100,76280.47
+33,Bachelor,Data Scientist,2,Large,100,88787.41
+27,Bachelor,DevOps Engineer,3,Large,100,107564.14
+59,Bachelor,Project Manager,20,Small,50,115809.41
+26,Master,Machine Learning Engineer,4,Medium,0,108637.38
+24,Bachelor,Cybersecurity Analyst,1,Medium,50,74259.25
+58,Bachelor,Data Analyst,20,Medium,0,107016.29
+43,PhD,Cybersecurity Analyst,7,Small,0,105580.15
+38,Bachelor,Database Administrator,13,Medium,50,92462.3
+50,Master,DevOps Engineer,25,Medium,50,136090.01
+36,Master,Machine Learning Engineer,11,Small,100,104002.12
+26,High School,Systems Engineer,0,Large,100,61620.33
+50,Bachelor,Database Administrator,31,Medium,100,144202.4
+28,Master,Data Analyst,0,Medium,100,64820.23
+43,PhD,Systems Engineer,24,Medium,100,137114.2
+58,Bachelor,Software Developer,1,Large,0,73537.43
+58,High School,Product Manager,20,Small,50,104855.68
+35,Bachelor,Machine Learning Engineer,1,Small,0,84920.6
+52,High School,Database Administrator,3,Medium,0,65505.44
+45,Master,Cybersecurity Analyst,18,Medium,0,120794.41
+40,Bachelor,DevOps Engineer,16,Small,100,111924.28
+26,Master,DevOps Engineer,0,Large,100,101224.78
+36,Master,Systems Engineer,17,Small,100,106770.86
+47,Bachelor,DevOps Engineer,9,Small,100,80058.18
+60,Bachelor,Cybersecurity Analyst,13,Medium,100,103942.77
+21,Master,Database Administrator,0,Large,0,83204.24
+49,Master,DevOps Engineer,14,Large,100,117594.43
+54,Master,Database Administrator,6,Medium,100,93084.94
+59,High School,Database Administrator,17,Medium,100,100233.89
+37,Bachelor,DevOps Engineer,3,Medium,0,73543.48
+25,Bachelor,Machine Learning Engineer,0,Medium,0,85028.91
+31,Master,Software Developer,4,Small,100,71417.65
+55,Bachelor,Systems Engineer,24,Medium,0,115361.72
+56,Bachelor,Product Manager,28,Large,0,148824.53
+46,Bachelor,Software Developer,9,Medium,50,90212.87
+25,Bachelor,Data Scientist,2,Medium,0,77154.5
+25,Master,Cybersecurity Analyst,5,Medium,0,89474.6
+40,Bachelor,Systems Engineer,14,Medium,100,97156.18
+44,High School,Database Administrator,21,Small,100,107977.2
+22,Master,Cybersecurity Analyst,3,Medium,100,96695.91
+48,Master,Data Analyst,24,Large,0,125687.16
+42,Bachelor,Systems Engineer,22,Small,0,111521.2
+21,Bachelor,Project Manager,1,Medium,50,85837.38
+24,PhD,Product Manager,2,Small,50,90118.54
+39,Master,Database Administrator,6,Small,0,76943.29
+49,Bachelor,Product Manager,7,Large,100,108170.08
+54,Bachelor,Data Analyst,26,Medium,100,111844.82
+38,Bachelor,Project Manager,14,Medium,50,104412.78
+32,High School,Software Developer,11,Small,0,60966.95
+59,Master,Data Analyst,6,Large,0,74120.82
+39,High School,Cybersecurity Analyst,10,Small,0,78460.85
+33,High School,Machine Learning Engineer,3,Medium,0,80183.44
+38,Master,Cybersecurity Analyst,17,Small,50,106641.68
+21,PhD,Product Manager,0,Small,50,94473.55
+33,Master,Data Analyst,2,Medium,50,65797.0
+41,Bachelor,DevOps Engineer,13,Small,100,108143.44
+57,Bachelor,Product Manager,34,Medium,0,156830.25
+50,Bachelor,Machine Learning Engineer,29,Small,0,142977.99
+52,Bachelor,DevOps Engineer,3,Medium,0,82819.28
+42,Bachelor,Machine Learning Engineer,7,Large,0,94987.57
+25,Bachelor,Database Administrator,1,Medium,50,71656.05
+36,Bachelor,Data Analyst,5,Small,100,56586.26
+60,Master,Product Manager,22,Medium,100,141751.27
+22,PhD,Product Manager,1,Large,50,104729.22
+56,High School,Product Manager,2,Small,50,78691.78
+48,Bachelor,Machine Learning Engineer,15,Small,0,99945.87
+32,Bachelor,DevOps Engineer,0,Large,50,84088.21
+52,Bachelor,Data Scientist,7,Small,0,85834.49
+54,Bachelor,Systems Engineer,0,Medium,100,74445.57
+22,Bachelor,Product Manager,0,Large,50,87414.99
+25,Master,DevOps Engineer,3,Small,0,82706.51
+47,Bachelor,Project Manager,24,Medium,0,131904.88
+60,Master,Software Developer,32,Medium,0,147682.76
+21,High School,Project Manager,0,Medium,100,66112.02
+47,High School,Cybersecurity Analyst,1,Large,0,67733.38
+26,Bachelor,Database Administrator,2,Small,0,83226.77
+47,High School,Software Developer,18,Medium,0,91961.42
+45,Bachelor,DevOps Engineer,20,Large,100,118654.04
+24,PhD,DevOps Engineer,4,Small,50,91304.7
+48,Bachelor,DevOps Engineer,10,Large,50,89386.76
+56,Bachelor,Data Analyst,6,Small,0,63645.52
+55,Bachelor,Machine Learning Engineer,0,Medium,0,85858.71
+22,Bachelor,Systems Engineer,0,Small,100,57530.03
+30,Bachelor,Cybersecurity Analyst,0,Medium,0,68175.66
+30,Bachelor,Systems Engineer,10,Large,0,99541.92
+39,Master,Machine Learning Engineer,5,Large,50,97498.71
+26,High School,Cybersecurity Analyst,6,Large,0,76270.57
+55,Bachelor,Data Analyst,20,Medium,0,97631.31
+52,Master,Project Manager,18,Large,100,131085.99
+53,Master,Project Manager,15,Medium,50,118236.8
+28,Bachelor,Data Analyst,8,Large,0,72017.5
+21,Bachelor,Data Analyst,0,Medium,0,56285.88
+57,High School,Product Manager,3,Large,100,92704.6
+32,Bachelor,Systems Engineer,5,Small,0,73295.14
+47,High School,Product Manager,11,Medium,0,101402.4
+57,Master,Machine Learning Engineer,21,Medium,50,137440.14
+22,Bachelor,Data Scientist,2,Small,50,64722.16
+21,Master,Systems Engineer,1,Small,100,75155.55
+21,High School,Cybersecurity Analyst,0,Large,0,69014.8
+27,Master,Software Developer,2,Medium,0,71400.41
+23,Master,Machine Learning Engineer,3,Small,50,96889.59
+53,High School,Data Scientist,7,Medium,50,79083.39
+45,High School,Software Developer,13,Medium,0,90707.11
+60,High School,Data Scientist,22,Medium,50,125066.85
+53,Master,DevOps Engineer,26,Large,0,150716.71
+59,Bachelor,Cybersecurity Analyst,29,Large,100,139916.28
+30,Bachelor,Data Analyst,5,Medium,100,56882.24
+32,Bachelor,Product Manager,4,Medium,50,100273.01
+54,Master,Product Manager,13,Medium,100,123268.31
+30,Bachelor,Cybersecurity Analyst,4,Large,100,86328.82
+23,Bachelor,Database Administrator,1,Small,0,71241.37
+47,PhD,Machine Learning Engineer,18,Small,0,124430.65
+53,Bachelor,Product Manager,7,Large,50,104855.07
+59,Master,Project Manager,26,Large,0,152349.34
+58,High School,DevOps Engineer,30,Medium,0,127318.38
+25,Bachelor,Software Developer,6,Medium,0,73543.11
+51,Master,DevOps Engineer,3,Medium,100,99134.82
+54,Master,Database Administrator,27,Medium,50,137666.66
+48,Master,Database Administrator,2,Small,100,84884.56
+53,Bachelor,Machine Learning Engineer,11,Small,0,106001.61
+54,Bachelor,Systems Engineer,6,Medium,0,78246.43
+38,Bachelor,Project Manager,3,Medium,100,74579.55
+22,Bachelor,Data Analyst,0,Medium,0,48365.37
+39,Bachelor,Software Developer,0,Small,0,59580.0
+29,Bachelor,DevOps Engineer,9,Large,0,92498.49
+25,Bachelor,Database Administrator,0,Medium,50,68039.84
+25,Bachelor,Data Scientist,2,Large,0,86430.88
+48,Bachelor,Machine Learning Engineer,20,Small,0,127817.42
+41,High School,Data Scientist,22,Medium,0,110949.88
+42,Master,Machine Learning Engineer,20,Large,0,135139.07
+50,Bachelor,Data Analyst,4,Medium,0,63485.33
+42,High School,DevOps Engineer,23,Small,50,116705.48
+46,Master,DevOps Engineer,18,Small,0,114674.52
+24,Master,Data Scientist,1,Small,0,82495.61
+55,Bachelor,Systems Engineer,16,Medium,50,97405.14
+38,Bachelor,Project Manager,18,Medium,100,122320.97
+27,High School,Software Developer,3,Small,0,57271.28
+53,High School,Data Analyst,6,Medium,0,58798.6
+50,Master,Data Analyst,28,Small,0,122638.26
+23,PhD,Product Manager,4,Medium,100,111693.75
+28,High School,Data Scientist,9,Medium,0,90533.07
+21,Master,Software Developer,2,Small,0,67564.62
+31,High School,Product Manager,11,Small,50,98458.43
+24,Bachelor,Software Developer,2,Small,0,55605.65
+49,Master,Data Scientist,5,Small,0,81215.37
+41,Bachelor,Data Analyst,14,Medium,0,93146.38
+60,High School,Cybersecurity Analyst,9,Small,50,83613.06
+50,Bachelor,Cybersecurity Analyst,15,Small,50,93862.21
+45,PhD,Project Manager,17,Large,50,140485.18
+41,Bachelor,Systems Engineer,21,Large,100,107957.34
+23,Bachelor,Data Scientist,1,Small,0,65756.36
+23,High School,Database Administrator,1,Medium,100,72966.17
+45,Bachelor,Product Manager,19,Medium,100,128049.13
+21,Bachelor,Data Analyst,0,Large,100,66707.48
+22,Master,Cybersecurity Analyst,2,Large,100,75301.71
+29,Master,Product Manager,8,Small,0,99246.48
+56,Master,DevOps Engineer,20,Small,0,122029.63
+39,Master,Cybersecurity Analyst,8,Medium,50,100391.74
+49,Bachelor,Data Analyst,25,Large,0,122774.13
+37,Bachelor,Data Analyst,7,Large,50,78138.45
+27,Bachelor,Data Analyst,6,Small,0,61206.07
+35,Bachelor,Software Developer,7,Medium,0,68407.3
+24,PhD,Database Administrator,0,Small,100,79772.87
+51,Master,Cybersecurity Analyst,17,Medium,50,109830.55
+28,PhD,Project Manager,0,Large,50,90912.78
+36,Bachelor,Systems Engineer,16,Medium,0,93688.92
+60,Bachelor,Database Administrator,25,Small,50,128052.11
+44,Bachelor,Software Developer,9,Medium,100,83176.63
+39,High School,Database Administrator,10,Medium,50,86319.26
+42,Bachelor,Data Analyst,14,Large,50,91719.02
+52,Bachelor,Data Analyst,8,Medium,50,63856.69
+31,High School,Data Analyst,3,Large,0,67216.68
+46,PhD,Project Manager,11,Small,50,100166.81
+55,High School,Systems Engineer,9,Small,100,72471.24
+43,Bachelor,Machine Learning Engineer,18,Medium,50,122272.31
+38,Master,Machine Learning Engineer,2,Small,0,87782.94
+26,High School,Project Manager,6,Small,50,75841.18
+30,Master,Data Scientist,4,Medium,50,79772.23
+58,Master,Data Analyst,22,Small,100,103593.44
+42,High School,Data Scientist,3,Small,100,66107.45
+33,Master,Systems Engineer,5,Small,0,72361.44
+37,Bachelor,Project Manager,14,Small,0,108620.35
+44,Master,Project Manager,7,Large,50,102118.38
+42,Master,Data Analyst,3,Large,0,77405.88
+48,Master,Project Manager,15,Small,50,114949.78
+31,Bachelor,Data Analyst,2,Large,100,76162.73
+46,Bachelor,Cybersecurity Analyst,8,Medium,50,89801.21
+38,Master,Data Scientist,9,Large,0,111546.79
+58,PhD,Data Scientist,22,Medium,100,139366.68
+27,Bachelor,Machine Learning Engineer,5,Small,100,92606.36
+26,Master,Data Scientist,5,Medium,0,81982.35
+39,Bachelor,Project Manager,17,Large,50,108570.33
+41,Master,Database Administrator,1,Medium,50,81465.28
+48,PhD,Product Manager,10,Medium,100,126587.1
+37,Bachelor,Machine Learning Engineer,0,Small,0,77853.01
+57,Bachelor,DevOps Engineer,0,Medium,0,71850.4
+39,Bachelor,Machine Learning Engineer,4,Large,50,107738.33
+26,Bachelor,Project Manager,4,Medium,0,84040.73
+25,Bachelor,DevOps Engineer,6,Medium,50,92725.27
+59,High School,Machine Learning Engineer,31,Medium,100,149767.82
+26,Bachelor,Machine Learning Engineer,5,Medium,0,102312.44
+58,Bachelor,Data Scientist,31,Medium,50,141297.82
+32,Bachelor,DevOps Engineer,2,Large,100,86480.84
+24,Master,Cybersecurity Analyst,5,Large,50,89011.13
+33,Master,Machine Learning Engineer,13,Medium,50,127914.2
+45,Bachelor,Product Manager,2,Medium,50,91928.47
+38,Master,Product Manager,9,Medium,0,112518.37
+52,Bachelor,Machine Learning Engineer,28,Small,0,155300.23
+45,Bachelor,Database Administrator,12,Small,50,92350.27
+37,Bachelor,Software Developer,15,Small,0,80186.07
+46,High School,Database Administrator,26,Medium,0,117024.58
+59,Bachelor,Systems Engineer,19,Small,0,94951.31
+37,Bachelor,DevOps Engineer,1,Medium,100,78824.79
+27,Master,Systems Engineer,3,Large,0,83184.46
+37,Master,Machine Learning Engineer,4,Small,100,91277.85
+54,High School,Data Scientist,17,Medium,0,95040.3
+29,Bachelor,Project Manager,6,Large,50,109755.01
+58,Bachelor,Data Analyst,18,Medium,0,96393.09
+44,Master,Product Manager,5,Small,0,93647.17
+45,Master,Database Administrator,8,Medium,50,99145.83
+33,Bachelor,DevOps Engineer,10,Medium,50,101826.4
+57,Bachelor,DevOps Engineer,1,Medium,0,78854.14
+22,Bachelor,Cybersecurity Analyst,0,Small,50,71109.99
+32,Bachelor,Software Developer,12,Medium,50,90203.61
+37,Master,Project Manager,1,Medium,0,91221.33
+40,Master,Systems Engineer,9,Small,50,92318.67
+39,Bachelor,Cybersecurity Analyst,4,Medium,0,80776.31
+26,Bachelor,Data Scientist,0,Small,50,67677.63
+30,High School,Project Manager,5,Medium,0,91182.39
+24,High School,Project Manager,3,Large,50,83732.59
+43,Bachelor,Systems Engineer,4,Small,0,70147.88
+35,Bachelor,Cybersecurity Analyst,1,Medium,50,77683.45
+43,PhD,Machine Learning Engineer,3,Medium,50,100942.65
+44,Bachelor,Systems Engineer,16,Medium,100,99353.07
+49,Bachelor,DevOps Engineer,26,Large,50,139076.89
+42,High School,Database Administrator,4,Medium,100,70846.7
+46,Bachelor,Data Analyst,8,Small,0,57851.22
+44,Master,Database Administrator,8,Large,0,95691.03
+47,Bachelor,Product Manager,10,Medium,0,106597.34
+45,Master,DevOps Engineer,6,Medium,50,104795.66
+33,Master,Cybersecurity Analyst,0,Small,50,77326.35
+30,High School,Data Scientist,6,Small,100,61602.79
+52,Bachelor,Software Developer,12,Medium,50,93247.82
+34,PhD,DevOps Engineer,5,Small,50,93651.09
+42,Bachelor,Product Manager,6,Small,0,92918.48
+28,High School,Systems Engineer,9,Large,0,84715.19
+38,Master,Project Manager,12,Small,100,108243.87
+42,Master,Project Manager,10,Small,0,100386.59
+46,Bachelor,Project Manager,5,Small,0,82865.45
+42,Bachelor,Data Scientist,19,Medium,100,126866.43
+35,Bachelor,Data Scientist,15,Medium,100,109882.04
+59,Master,Machine Learning Engineer,1,Large,50,105713.22
+41,Bachelor,Product Manager,21,Small,0,128839.44
+53,High School,Database Administrator,24,Small,100,115802.27
+50,Master,Machine Learning Engineer,3,Medium,0,83880.29
+43,PhD,Database Administrator,18,Medium,50,131299.8
+56,Master,DevOps Engineer,4,Medium,0,88052.59
+26,Bachelor,Data Scientist,0,Large,100,88294.36
+57,High School,Data Analyst,4,Medium,100,54964.8
+55,PhD,Cybersecurity Analyst,17,Medium,50,118289.56
+41,PhD,Cybersecurity Analyst,14,Large,0,135658.33
+50,Bachelor,Database Administrator,13,Small,50,86858.1
+41,Bachelor,Project Manager,2,Large,0,96276.64
+31,Bachelor,Data Analyst,2,Medium,100,64110.52
+52,Bachelor,DevOps Engineer,28,Medium,0,134079.28
+30,High School,Project Manager,11,Large,0,101931.03
+33,High School,Machine Learning Engineer,11,Medium,100,94393.43
+41,Bachelor,Machine Learning Engineer,2,Medium,50,87317.47
+54,Master,Product Manager,29,Small,100,145303.56
+36,High School,Cybersecurity Analyst,12,Medium,0,88027.34
+40,Bachelor,Cybersecurity Analyst,11,Medium,100,104751.8
+22,Bachelor,Machine Learning Engineer,0,Small,0,76525.14
+25,Bachelor,Systems Engineer,6,Medium,0,69306.98
+23,Bachelor,DevOps Engineer,2,Medium,50,86508.93
+23,Bachelor,Database Administrator,0,Medium,0,67957.4
+55,Bachelor,Cybersecurity Analyst,7,Small,50,79146.89
+54,Bachelor,Project Manager,14,Medium,0,113280.06
+53,Master,Software Developer,2,Small,0,65396.76
+23,Bachelor,Database Administrator,1,Small,100,61206.03
+24,Master,Systems Engineer,2,Medium,0,87486.86
+32,Master,Database Administrator,13,Small,50,99496.28
+43,Master,Machine Learning Engineer,2,Small,100,89911.69
+34,Bachelor,Database Administrator,9,Medium,0,85369.37
+40,Bachelor,Product Manager,20,Medium,100,138079.79
+27,Bachelor,Project Manager,7,Large,0,97250.73
+50,Master,Database Administrator,29,Large,0,136530.12
+33,High School,Cybersecurity Analyst,2,Medium,0,64327.93
+23,PhD,Product Manager,4,Large,100,125760.65
+50,Bachelor,Software Developer,31,Large,50,143192.79
+57,Master,Data Analyst,12,Medium,50,88869.91
+21,Bachelor,DevOps Engineer,1,Medium,100,89439.53
+38,High School,Product Manager,10,Small,0,96487.65
+54,Bachelor,Project Manager,17,Medium,100,117800.46
+49,Bachelor,DevOps Engineer,8,Medium,100,95604.54
+55,Bachelor,DevOps Engineer,35,Small,100,151975.91
+37,Bachelor,Cybersecurity Analyst,18,Small,100,103608.68
+35,Bachelor,Product Manager,6,Large,100,107227.03
+49,Bachelor,Product Manager,24,Medium,0,137651.08
+27,Bachelor,Software Developer,3,Small,100,55478.2
+30,PhD,DevOps Engineer,9,Small,100,106664.08
+45,Bachelor,Data Scientist,15,Medium,50,106181.66
+47,Bachelor,Project Manager,13,Large,0,119768.41
+25,Bachelor,DevOps Engineer,0,Large,100,74933.02
+41,Bachelor,Database Administrator,15,Medium,0,98710.96
+35,Bachelor,Machine Learning Engineer,5,Small,50,85109.47
+41,Bachelor,Cybersecurity Analyst,4,Small,50,81560.43
+59,PhD,Software Developer,7,Medium,0,91138.72
+24,Bachelor,Database Administrator,5,Large,100,100776.57
+60,Master,Software Developer,4,Medium,0,80773.28
+38,High School,Data Scientist,15,Medium,50,98538.66
+51,Bachelor,Product Manager,28,Medium,100,150037.95
+37,Bachelor,Database Administrator,0,Medium,0,65875.59
+33,High School,Machine Learning Engineer,8,Medium,100,100756.38
+51,Bachelor,Machine Learning Engineer,19,Medium,0,114806.81
+48,Master,Data Analyst,10,Medium,100,83057.82
+26,Master,Database Administrator,5,Medium,100,92734.14
+49,Bachelor,Data Analyst,12,Large,0,95754.54
+51,Bachelor,Data Analyst,14,Medium,50,74588.19
+36,Bachelor,Machine Learning Engineer,7,Small,50,100646.83
+58,High School,Data Analyst,32,Small,50,113559.19
+46,High School,Software Developer,17,Medium,100,84096.75
+34,Master,Cybersecurity Analyst,6,Medium,50,75189.63
+21,PhD,Project Manager,2,Medium,50,90223.68
+47,High School,Systems Engineer,23,Medium,0,108481.77
+29,Bachelor,Project Manager,10,Small,0,93604.61
+51,Master,Cybersecurity Analyst,24,Medium,100,138599.2
+42,Master,Systems Engineer,9,Medium,0,88503.08
+39,Bachelor,Project Manager,16,Medium,50,108551.76
+27,Bachelor,DevOps Engineer,2,Medium,0,76921.48
+49,Master,Product Manager,8,Small,100,105801.66
+27,Master,Software Developer,4,Medium,50,80184.64
+37,High School,Systems Engineer,18,Large,50,101865.01
+54,Master,Data Scientist,20,Large,0,136408.68
+57,High School,Data Scientist,14,Medium,50,95071.62
+60,Master,Product Manager,19,Small,100,124581.7
+59,High School,Project Manager,11,Medium,50,93945.65
+43,Bachelor,DevOps Engineer,16,Medium,50,118649.04
+29,High School,DevOps Engineer,3,Medium,100,77803.22
+54,Bachelor,Product Manager,19,Large,0,127632.92
+53,Bachelor,Machine Learning Engineer,12,Small,50,108956.65
+60,Bachelor,Systems Engineer,13,Small,0,100456.49
+47,Bachelor,Software Developer,28,Small,0,117858.1
+26,Bachelor,Data Scientist,2,Small,100,82803.05
+41,Master,Cybersecurity Analyst,1,Large,100,97416.47
+38,Master,Machine Learning Engineer,7,Medium,100,103766.16
+54,Master,Machine Learning Engineer,19,Small,100,127959.81
+36,High School,Machine Learning Engineer,1,Medium,50,70504.73
+34,Bachelor,Database Administrator,4,Medium,0,75570.35
+24,Master,Database Administrator,0,Medium,50,73242.86
+54,High School,Software Developer,18,Small,100,89182.68
+51,Bachelor,Software Developer,23,Medium,100,111100.63
+22,PhD,Systems Engineer,3,Small,50,80877.42
+38,PhD,Product Manager,7,Large,50,125593.4
+40,Bachelor,Machine Learning Engineer,18,Small,100,117883.05
+39,Master,Product Manager,4,Medium,100,91613.76
+57,Bachelor,Cybersecurity Analyst,30,Large,100,143523.28
+27,Master,DevOps Engineer,5,Small,50,79883.6
+33,High School,Systems Engineer,11,Small,0,77664.36
+28,High School,Data Scientist,7,Large,50,93419.9
+30,Bachelor,Software Developer,6,Medium,0,75739.29
+57,Bachelor,DevOps Engineer,10,Medium,100,96275.57
+58,Master,Systems Engineer,21,Small,50,115681.12
+22,Bachelor,Systems Engineer,3,Small,50,64779.31
+46,Master,Data Analyst,27,Medium,0,114570.65
+30,Master,Project Manager,11,Large,50,122651.58
+28,Bachelor,Database Administrator,1,Small,50,71108.17
+32,Master,Machine Learning Engineer,8,Large,0,118293.37
+28,Bachelor,DevOps Engineer,1,Medium,100,77549.91
+40,Bachelor,Database Administrator,14,Small,0,99876.17
+60,Bachelor,DevOps Engineer,41,Small,50,158238.51
+44,Master,Cybersecurity Analyst,1,Small,0,78121.01
+49,Master,Machine Learning Engineer,20,Medium,50,130934.52
+40,Master,DevOps Engineer,20,Medium,100,128656.11
+21,Master,DevOps Engineer,2,Medium,100,75872.93
+24,PhD,Project Manager,2,Small,0,89588.52
+31,Bachelor,Cybersecurity Analyst,1,Medium,100,77746.54
+30,PhD,DevOps Engineer,11,Medium,100,115739.7
+54,Bachelor,Data Analyst,33,Medium,0,138137.13
+54,Bachelor,Database Administrator,20,Medium,0,105025.2
+55,Bachelor,Product Manager,36,Small,0,152818.51
+46,Bachelor,Software Developer,0,Medium,100,59570.76
+43,Bachelor,Systems Engineer,15,Medium,0,94617.34
+46,Bachelor,Database Administrator,1,Medium,50,78388.48
+37,High School,Data Scientist,17,Small,100,110268.19
+47,Bachelor,Product Manager,19,Medium,100,124595.24
+52,Master,Project Manager,31,Medium,50,150861.95
+51,Bachelor,Product Manager,18,Medium,100,119657.23
+45,Bachelor,Data Analyst,2,Large,0,74237.71
+23,Bachelor,Machine Learning Engineer,0,Large,100,98726.03
+49,Bachelor,DevOps Engineer,10,Small,0,90364.11
+35,Bachelor,Product Manager,12,Medium,0,101023.4
+50,Master,Systems Engineer,4,Medium,100,76960.02
+42,Bachelor,Data Scientist,20,Large,0,125023.78
+56,Master,Software Developer,9,Small,0,85096.03
+34,Master,Project Manager,7,Small,50,84003.13
+58,Bachelor,Database Administrator,8,Medium,0,83672.14
+54,Master,Software Developer,16,Small,0,106909.78
+34,Bachelor,Systems Engineer,7,Medium,50,81094.94
+40,Master,Data Scientist,0,Medium,100,92937.83
+42,Master,Product Manager,13,Small,100,120494.28
+51,Master,Machine Learning Engineer,25,Medium,0,136494.32
+48,Master,Systems Engineer,28,Large,50,140843.97
+55,Master,Data Scientist,12,Large,100,116627.83
+35,PhD,DevOps Engineer,14,Medium,0,115084.93
+41,Bachelor,Data Scientist,20,Small,0,105180.79
+38,Master,Software Developer,19,Small,0,112840.61
+57,Master,Product Manager,14,Large,50,123935.84
+33,Bachelor,Machine Learning Engineer,12,Medium,0,113870.62
+44,Master,Systems Engineer,14,Medium,100,104181.09
+25,Bachelor,Project Manager,0,Large,100,88846.16
+55,Bachelor,Project Manager,10,Small,0,97371.07
+36,High School,Software Developer,12,Medium,50,78808.65
+34,Bachelor,Data Analyst,2,Small,0,56807.43
+44,Master,Data Analyst,11,Small,0,67921.42
+40,Bachelor,Project Manager,17,Medium,100,122038.24
+54,Bachelor,Cybersecurity Analyst,5,Medium,50,69188.82
+42,Bachelor,Project Manager,11,Large,100,111838.92
+41,Bachelor,Cybersecurity Analyst,4,Medium,50,86925.46
+25,Master,Machine Learning Engineer,3,Large,0,105333.77
+21,Master,DevOps Engineer,0,Medium,50,76209.54
+36,High School,Project Manager,17,Medium,0,101382.01
+60,Bachelor,Data Scientist,3,Large,100,86467.97
+57,Bachelor,Database Administrator,37,Medium,50,152517.3
+46,Bachelor,Product Manager,22,Medium,0,119208.4
+46,Bachelor,Product Manager,23,Small,50,129520.66
+36,Bachelor,Database Administrator,15,Small,50,98868.58
+28,Bachelor,Data Scientist,1,Large,100,84501.78
+21,Bachelor,Software Developer,2,Medium,0,68551.93
+34,Bachelor,Machine Learning Engineer,9,Medium,0,102142.34
+33,Bachelor,Project Manager,14,Small,0,99550.07
+28,Master,Project Manager,8,Medium,0,90982.86
+31,Master,Data Scientist,7,Medium,50,98200.48
+21,Bachelor,Systems Engineer,1,Small,0,55481.55
+45,Master,Machine Learning Engineer,3,Large,50,100129.94
+58,Master,Product Manager,4,Medium,50,103674.75
+48,Bachelor,Data Analyst,11,Large,0,94704.0
+38,Bachelor,Data Scientist,16,Small,100,105971.64
+37,Bachelor,Systems Engineer,9,Medium,50,90124.39
+33,Master,Product Manager,7,Small,0,90733.12
+26,Bachelor,Machine Learning Engineer,1,Medium,50,86673.14
+44,Master,Data Analyst,14,Medium,0,92440.56
+43,Bachelor,Systems Engineer,15,Medium,100,109375.37
+21,Bachelor,Data Analyst,2,Small,50,52157.25
+37,PhD,Machine Learning Engineer,13,Large,50,132150.17
+32,Bachelor,Database Administrator,8,Small,100,89952.89
+27,Master,DevOps Engineer,8,Medium,100,103047.8
+49,PhD,Product Manager,13,Large,100,130946.95
+42,Master,Project Manager,22,Medium,0,148709.8
+46,Bachelor,Product Manager,10,Large,0,105528.44
+49,Master,Data Scientist,3,Medium,50,88211.8
+60,High School,Database Administrator,17,Large,50,109480.13
+53,Bachelor,Systems Engineer,4,Medium,50,77405.71
+45,Master,Machine Learning Engineer,3,Medium,100,97461.54
+56,Master,Cybersecurity Analyst,33,Small,0,143491.44
+40,Bachelor,Systems Engineer,17,Medium,0,100990.41
+60,Bachelor,Systems Engineer,9,Small,50,74104.4
+51,Master,Software Developer,27,Large,0,147301.32
+47,Master,Data Analyst,1,Small,50,58880.05
+57,Bachelor,DevOps Engineer,11,Small,100,100781.59
+41,Master,Database Administrator,16,Large,50,117192.08
+49,Bachelor,Systems Engineer,9,Small,100,80671.42
+32,Bachelor,Machine Learning Engineer,10,Medium,50,102267.34
+59,Bachelor,Database Administrator,35,Medium,100,139700.93
+45,PhD,Project Manager,1,Small,0,88236.27
+52,Bachelor,Data Analyst,0,Small,100,50557.95
+39,Bachelor,DevOps Engineer,19,Medium,100,127829.15
+55,High School,Software Developer,19,Small,0,82619.8
+23,Master,Systems Engineer,2,Small,50,68937.12
+25,Bachelor,Systems Engineer,3,Small,100,64209.36
+41,Bachelor,Cybersecurity Analyst,9,Medium,0,99455.18
+50,PhD,Software Developer,22,Medium,100,123183.55
+53,High School,Systems Engineer,20,Small,100,103373.8
+38,Bachelor,Systems Engineer,3,Medium,100,81420.97
+46,Bachelor,Data Scientist,17,Medium,50,111523.26
+43,Master,Cybersecurity Analyst,16,Small,50,100939.13
+59,Bachelor,Data Scientist,4,Medium,100,77615.08
+47,Bachelor,Data Scientist,10,Large,50,109158.58
+37,Bachelor,DevOps Engineer,15,Medium,0,100436.44
+59,Master,Cybersecurity Analyst,25,Medium,0,135352.16
+25,Master,Data Analyst,0,Medium,100,66686.09
+60,High School,Product Manager,1,Small,50,76462.79
+27,Bachelor,Database Administrator,5,Large,0,88829.51
+32,Master,Cybersecurity Analyst,6,Large,0,92597.98
+53,High School,DevOps Engineer,33,Large,100,145746.83
+50,Bachelor,Cybersecurity Analyst,16,Small,50,106489.56
+59,Bachelor,Machine Learning Engineer,38,Medium,100,164823.93
+50,Bachelor,Data Scientist,6,Small,100,67699.11
+46,Bachelor,Data Scientist,12,Medium,100,107292.53
+34,Bachelor,Software Developer,2,Medium,100,63182.43
+21,Bachelor,Product Manager,1,Medium,0,88002.82
+25,Bachelor,Data Scientist,1,Small,50,79556.93
+32,Master,Systems Engineer,6,Large,0,92300.57
+22,Bachelor,Database Administrator,1,Small,100,74174.59
+41,High School,DevOps Engineer,4,Small,0,71722.79
+52,Master,Cybersecurity Analyst,3,Large,50,103124.58
+59,Bachelor,Systems Engineer,20,Medium,100,106627.36
+40,Master,Systems Engineer,20,Medium,0,115950.71
+56,Bachelor,Project Manager,7,Medium,100,101438.97
+60,Master,Machine Learning Engineer,17,Small,0,118257.53
+55,Bachelor,Software Developer,8,Small,50,81513.31
+39,Bachelor,Product Manager,16,Medium,50,117607.76
+34,Bachelor,Machine Learning Engineer,6,Medium,0,106616.23
+60,High School,Cybersecurity Analyst,40,Medium,50,166733.19
+30,Bachelor,Data Scientist,2,Small,100,77092.43
+37,Master,DevOps Engineer,1,Medium,0,87515.61
+23,Master,Project Manager,2,Large,50,105550.03
+52,High School,Product Manager,22,Small,100,115276.82
+46,Master,Systems Engineer,27,Small,100,121528.0
+24,Master,Cybersecurity Analyst,5,Medium,0,96538.51
+29,Master,Database Administrator,9,Large,100,107443.93
+43,Master,Cybersecurity Analyst,15,Medium,0,109640.97
+42,Master,Software Developer,8,Medium,50,87666.74
+53,Bachelor,Software Developer,15,Medium,50,81683.75
+31,Master,Systems Engineer,1,Small,100,71056.63
+57,Master,Software Developer,16,Medium,0,98681.72
+38,High School,Project Manager,7,Small,0,85908.43
+53,Bachelor,Database Administrator,1,Medium,100,80170.18
+30,High School,DevOps Engineer,2,Small,0,69860.08
+22,PhD,DevOps Engineer,2,Small,50,92772.75
+23,Bachelor,Project Manager,1,Medium,100,75215.92
+35,Master,Machine Learning Engineer,16,Medium,50,128743.86
+59,Master,Machine Learning Engineer,19,Medium,0,133576.39
+22,PhD,DevOps Engineer,3,Medium,0,104071.16
+35,Bachelor,Data Scientist,11,Large,100,120909.26
+25,Master,Data Analyst,0,Large,50,60844.64
+58,Master,DevOps Engineer,8,Large,0,104269.14
+48,High School,Product Manager,21,Medium,0,117746.4
+51,Master,Data Analyst,17,Medium,0,100435.04
+49,Bachelor,Systems Engineer,9,Medium,100,88880.41
+47,Bachelor,Systems Engineer,15,Medium,0,96595.51
+51,Bachelor,Product Manager,29,Medium,0,152965.63
+21,Bachelor,DevOps Engineer,1,Medium,50,72591.51
+55,High School,DevOps Engineer,1,Small,0,57953.27
+50,High School,Cybersecurity Analyst,9,Small,0,71654.65
+50,High School,Systems Engineer,29,Large,100,130638.03
+36,Bachelor,Project Manager,13,Small,100,97228.46
+53,Bachelor,Data Analyst,29,Medium,0,118508.57
+36,Bachelor,Software Developer,16,Medium,50,97207.06
+22,Master,Product Manager,0,Small,0,79280.91
+57,Master,Cybersecurity Analyst,11,Large,0,114442.6
+30,Bachelor,Software Developer,0,Small,50,56643.0
+25,PhD,Machine Learning Engineer,0,Large,50,111375.88
+45,Bachelor,Data Analyst,22,Large,100,113229.7
+30,Master,Cybersecurity Analyst,11,Small,100,100054.83
+55,High School,Project Manager,5,Small,0,72623.31
+38,Master,Systems Engineer,14,Medium,100,106757.72
+21,PhD,Data Scientist,1,Medium,50,96473.39
+59,Master,Systems Engineer,2,Small,0,67931.99
+41,Bachelor,Data Scientist,21,Large,100,133310.47
+31,Bachelor,Systems Engineer,11,Small,0,78323.52
+48,Bachelor,Systems Engineer,17,Large,50,115954.3
+42,Master,Machine Learning Engineer,16,Small,100,117720.57
+22,Master,Product Manager,1,Large,0,104310.08
+51,PhD,Project Manager,26,Small,100,148565.86
+37,Bachelor,Systems Engineer,8,Medium,0,91725.72
+48,High School,Database Administrator,29,Medium,100,121875.59
+56,Bachelor,Systems Engineer,2,Small,0,54542.94
+45,High School,Database Administrator,4,Large,0,73102.7
+47,Bachelor,Data Scientist,28,Small,0,120292.33
+31,Bachelor,DevOps Engineer,3,Medium,100,77303.59
+30,Master,Systems Engineer,3,Medium,0,82329.3
+37,Bachelor,Project Manager,15,Medium,100,114974.93
+55,Bachelor,Data Scientist,7,Small,0,79521.91
+41,High School,Product Manager,11,Small,50,93878.22
+34,Master,Data Analyst,4,Small,0,61216.57
+52,Master,DevOps Engineer,6,Medium,0,105102.22
+55,High School,Software Developer,35,Small,100,124586.97
+57,High School,Product Manager,7,Large,50,92467.2
+32,Bachelor,Machine Learning Engineer,1,Medium,50,89976.3
+49,Bachelor,Cybersecurity Analyst,20,Medium,50,115705.47
+44,Bachelor,Product Manager,22,Medium,50,145632.64
+38,Bachelor,DevOps Engineer,2,Small,50,72242.77
+36,Master,Data Analyst,12,Medium,100,97475.91
+25,Bachelor,Systems Engineer,3,Small,50,74093.18
+31,Master,Systems Engineer,10,Medium,50,92871.99
+42,High School,Database Administrator,3,Medium,50,65142.48
+56,PhD,Database Administrator,37,Medium,50,170848.2
+55,PhD,Machine Learning Engineer,22,Large,50,156849.35
+28,Master,Product Manager,8,Small,50,95136.34
+48,Bachelor,Systems Engineer,10,Medium,50,82229.39
+24,Bachelor,Cybersecurity Analyst,5,Small,100,64781.42
+48,Master,Data Scientist,18,Medium,100,127172.32
+34,Master,Systems Engineer,2,Medium,100,78829.04
+38,Bachelor,Systems Engineer,18,Small,100,101627.1
+49,Bachelor,Machine Learning Engineer,24,Medium,50,125651.34
+37,Bachelor,Data Scientist,5,Medium,100,81411.39
+53,Master,Systems Engineer,19,Small,0,104932.25
+42,Master,Data Scientist,9,Large,50,104766.05
+60,Bachelor,Software Developer,22,Medium,0,110107.02
+46,Bachelor,Database Administrator,27,Large,0,137900.81
+32,Bachelor,Data Scientist,12,Medium,100,117017.68
+52,Bachelor,Software Developer,7,Large,100,87279.9
+37,High School,DevOps Engineer,18,Small,50,110292.42
+42,Master,Product Manager,10,Medium,0,107020.16
+26,Bachelor,Data Scientist,5,Large,50,82950.32
+25,Bachelor,Product Manager,5,Medium,50,93886.19
+43,Bachelor,Cybersecurity Analyst,12,Medium,100,91813.67
+28,Bachelor,Project Manager,4,Large,100,97888.04
+60,Bachelor,Systems Engineer,19,Medium,0,102117.28
+55,Bachelor,Data Analyst,31,Medium,0,111474.37
+49,High School,Data Scientist,11,Medium,0,100616.15
+50,Master,Database Administrator,8,Large,0,96374.63
+44,Bachelor,Project Manager,9,Large,0,94974.28
+23,Bachelor,Project Manager,0,Medium,0,83389.03
+36,Bachelor,Product Manager,7,Small,0,88028.31
+40,Master,Data Scientist,2,Small,0,84941.0
+57,Bachelor,Data Scientist,3,Medium,0,75199.63
+29,Master,Database Administrator,7,Large,100,98154.61
+40,PhD,DevOps Engineer,1,Medium,0,94268.99
+34,Master,Systems Engineer,9,Small,100,93359.32
+26,Bachelor,Systems Engineer,6,Small,0,76810.9
+25,Master,Product Manager,5,Medium,0,100461.55
+35,Bachelor,Data Analyst,7,Large,0,80571.7
+24,Bachelor,Data Analyst,1,Small,100,59673.77
+23,Bachelor,Project Manager,4,Medium,0,88003.41
+35,Bachelor,Data Analyst,14,Large,50,93944.05
+29,High School,Software Developer,6,Large,0,65528.23
+43,Bachelor,Database Administrator,2,Small,100,73995.04
+21,High School,Machine Learning Engineer,0,Large,0,81253.04
+33,Bachelor,Project Manager,4,Medium,50,86318.3
+39,Bachelor,Machine Learning Engineer,3,Large,100,106266.6
+59,PhD,Data Analyst,35,Small,0,132433.0
+46,High School,Software Developer,5,Medium,0,74864.22
+56,Bachelor,Project Manager,10,Medium,100,103866.36
+34,Bachelor,Data Analyst,15,Medium,0,89905.11
+38,High School,DevOps Engineer,16,Medium,0,100829.74
+37,Bachelor,Data Scientist,4,Medium,50,73797.56
+56,High School,Data Scientist,14,Medium,0,95962.34
+59,Bachelor,Database Administrator,21,Small,100,114208.47
+59,Bachelor,Cybersecurity Analyst,27,Medium,50,136457.35
+51,Bachelor,Cybersecurity Analyst,30,Small,50,131811.8
+41,Bachelor,Data Scientist,20,Large,0,110844.76
+42,High School,Data Scientist,23,Large,50,116350.03
+60,Bachelor,Cybersecurity Analyst,1,Small,50,81512.12
+32,High School,Data Analyst,3,Small,0,42044.78
+34,Bachelor,Systems Engineer,9,Small,100,91362.3
+56,Bachelor,Cybersecurity Analyst,1,Medium,50,69595.48
+36,Bachelor,Cybersecurity Analyst,6,Large,100,94105.26
+30,Bachelor,Data Analyst,1,Medium,0,60951.25
+43,High School,Project Manager,23,Small,0,110678.83
+34,PhD,DevOps Engineer,1,Small,100,99753.29
+56,High School,Systems Engineer,5,Small,100,67454.37
+57,High School,Project Manager,7,Large,0,96165.11
+33,High School,Database Administrator,2,Medium,0,63794.36
+42,PhD,Machine Learning Engineer,13,Medium,100,132552.32
+60,Bachelor,Systems Engineer,15,Medium,0,107472.76
+50,Bachelor,Systems Engineer,29,Large,0,135012.28
+29,PhD,DevOps Engineer,2,Medium,50,106778.28
+44,High School,Data Analyst,13,Large,0,79930.43
+45,PhD,Machine Learning Engineer,17,Large,0,144984.58
+47,Bachelor,Data Analyst,18,Medium,0,97534.69
+22,Bachelor,Data Analyst,3,Large,100,66188.51
+32,Bachelor,Machine Learning Engineer,2,Small,0,80682.86
+55,Bachelor,Project Manager,18,Medium,50,119644.2
+30,PhD,Product Manager,9,Small,100,110680.85
+32,High School,Data Analyst,12,Medium,50,78548.01
+33,PhD,Systems Engineer,9,Small,50,96677.74
+28,Bachelor,Machine Learning Engineer,6,Small,50,89764.48
+27,Bachelor,DevOps Engineer,7,Small,0,83988.54
+34,PhD,Database Administrator,9,Medium,50,104259.94
+55,High School,Cybersecurity Analyst,35,Medium,100,142793.8
+21,Master,DevOps Engineer,0,Medium,100,86839.0
+32,Bachelor,Data Analyst,4,Medium,50,61936.51
+23,Master,Data Analyst,0,Large,0,84940.86
+43,High School,Software Developer,2,Large,100,60944.0
+31,Bachelor,Cybersecurity Analyst,6,Small,0,74691.58
+52,Master,Data Scientist,7,Medium,100,96365.55
+44,Bachelor,Systems Engineer,10,Medium,0,99242.96
+52,Bachelor,Cybersecurity Analyst,14,Medium,100,97879.19
+46,Bachelor,Product Manager,17,Medium,100,126955.53
+38,Master,Machine Learning Engineer,18,Medium,50,131090.36
+55,High School,Product Manager,31,Small,0,140201.61
+40,Master,Project Manager,8,Medium,100,114018.06
+58,PhD,Project Manager,13,Medium,0,128894.98
+60,High School,Product Manager,32,Medium,0,143694.26
+44,Bachelor,Software Developer,3,Large,50,77764.1
+47,Master,Project Manager,15,Small,50,102815.39
+31,High School,Database Administrator,5,Small,50,68594.56
+53,Bachelor,Database Administrator,6,Small,0,70436.06
+47,Master,DevOps Engineer,17,Small,50,114281.71
+57,Bachelor,Project Manager,12,Small,100,92287.77
+31,Bachelor,Product Manager,2,Medium,0,89829.23
+52,Master,Product Manager,22,Medium,50,130220.59
+39,Bachelor,Product Manager,3,Medium,50,92489.71
+28,Bachelor,Product Manager,6,Medium,100,92840.97
+27,Bachelor,Data Scientist,1,Small,50,66102.15
+43,Master,Project Manager,10,Medium,100,117928.39
+33,Master,Machine Learning Engineer,12,Small,0,111927.51
+25,Bachelor,Product Manager,1,Large,0,99095.22
+38,Bachelor,Product Manager,15,Small,100,123358.36
+47,High School,Database Administrator,20,Medium,100,104362.97
+33,Bachelor,DevOps Engineer,13,Large,50,121593.83
+59,High School,Machine Learning Engineer,6,Medium,50,80406.97
+52,PhD,Software Developer,24,Medium,50,135276.6
+41,Bachelor,Cybersecurity Analyst,21,Medium,0,114239.97
+58,Master,DevOps Engineer,30,Small,100,140418.2
+38,Bachelor,DevOps Engineer,3,Medium,100,89286.82
+26,Bachelor,Cybersecurity Analyst,6,Large,50,98869.71
+22,Bachelor,Product Manager,0,Large,0,95491.61
+58,Bachelor,Software Developer,23,Medium,0,112889.16
+59,Master,Machine Learning Engineer,20,Medium,0,132791.74
+50,PhD,Project Manager,16,Large,100,142361.2
+25,Master,Product Manager,3,Medium,50,100422.58
+32,Bachelor,Project Manager,0,Small,0,75248.14
+22,Master,Project Manager,2,Small,50,86624.0
+23,High School,Product Manager,4,Small,100,87856.7
+30,Master,Database Administrator,5,Medium,0,76236.75
+43,Bachelor,Cybersecurity Analyst,6,Small,50,79412.36
+23,Bachelor,Systems Engineer,4,Small,50,61496.92
+60,Bachelor,DevOps Engineer,4,Small,0,79460.21
+39,High School,Project Manager,10,Large,50,111851.58
+31,Bachelor,Software Developer,6,Small,50,67355.49
+41,Master,Project Manager,10,Small,0,101763.51
+52,Master,DevOps Engineer,31,Medium,0,154738.92
+33,PhD,Database Administrator,6,Small,100,81793.66
+22,High School,Systems Engineer,3,Large,0,68467.34
+23,Bachelor,Database Administrator,0,Large,50,79187.09
+55,Bachelor,Machine Learning Engineer,27,Medium,50,125018.03
+25,Bachelor,DevOps Engineer,4,Medium,100,81939.15
+46,Bachelor,Cybersecurity Analyst,6,Medium,100,94805.15
+36,Bachelor,DevOps Engineer,4,Small,100,87817.98
+52,Bachelor,Database Administrator,24,Small,50,119045.91
+23,Bachelor,Software Developer,3,Small,50,68893.19
+56,Bachelor,Project Manager,23,Small,0,123890.63
+48,Master,Database Administrator,1,Medium,0,80532.37
+38,High School,Systems Engineer,11,Small,50,76306.08
+29,PhD,Systems Engineer,10,Small,0,96694.88
+60,Bachelor,Machine Learning Engineer,0,Medium,50,79205.78
+33,Master,Project Manager,7,Medium,0,107980.9
+40,Master,Database Administrator,10,Small,0,100129.36
+36,Master,Project Manager,16,Small,0,122479.48
+30,Master,Project Manager,3,Small,100,87151.35
+37,Master,Machine Learning Engineer,9,Small,50,98077.36
+27,Bachelor,Cybersecurity Analyst,6,Large,100,102861.84
+21,Bachelor,Systems Engineer,0,Large,50,77263.44
+32,High School,Machine Learning Engineer,11,Medium,100,104171.51
+25,Bachelor,Software Developer,5,Medium,100,72198.21
+37,High School,Data Analyst,13,Medium,0,79153.98
+55,Bachelor,Product Manager,23,Medium,100,131088.33
+27,High School,Product Manager,6,Small,0,87004.37
+21,Bachelor,DevOps Engineer,2,Small,50,83673.32
+25,Bachelor,Data Analyst,6,Medium,100,81986.27
+41,Bachelor,Data Analyst,9,Medium,0,79051.14
+31,Master,Software Developer,5,Small,50,66707.87
+40,Master,Project Manager,14,Small,0,110983.98
+22,Bachelor,Systems Engineer,0,Medium,0,77838.09
+34,Bachelor,Systems Engineer,13,Small,0,82388.33
+37,Bachelor,Product Manager,14,Medium,0,113444.91
+38,Bachelor,Product Manager,12,Medium,0,117881.15
+43,Master,Project Manager,7,Medium,50,106102.8
+52,Bachelor,Data Scientist,11,Small,50,108080.94
+39,PhD,DevOps Engineer,9,Small,50,101402.78
+54,High School,Systems Engineer,23,Large,50,111661.47
